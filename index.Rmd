@@ -6,8 +6,8 @@ My name is Kun Xu. I am an assistant professor of emerging media at the Universi
 
 My research seeks to inform UI design, UX design, education, health communication, and political communication. I use lab experiments, modeling techniques (SEM and HLM), computational methods (GIS, machine learning), and visual analyses in my works.
 
-![](me.jpg)
+![](~/Documents/GitHub/kunxu.github.io/images/me.jpg)
 
 Born and brought up in Shanghai, I received my B.A. in International Journalism (major) and German (minor) from Shanghai International Studies University. I worked as a cameraman in the TV Department at Reuters News Agency and as a news editor in the TV Center of Shanghai Media Group. I obtained my Ph.D. in media and communication at Temple University.
 
-![Robot NAO and me](me and robot.png)
+![](~/Documents/GitHub/kunxu.github.io/images/me and robot.png)

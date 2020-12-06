@@ -1,5 +1,35 @@
 ---
-title: "Research"
+title: "Research Summary"
 ---
 
-Here is my research. 
+My current research program focuses on three areas: 
+1) building and testing the Media are Social Actors paradigm as an extension of the Computers are Social Actors paradigm, 
+2) examining the roles of social cues and social presence in users' psychological processing of emerging technologies such as humanoid social robots, telepresence robots, virtual/augmented reality (VR/AR) technologies. 
+3) computational studies and general media effects studies
+
+
+Area 1: A theoretical framework of the Media are Social Actors (MASA)
+
+Conceptual studies: (Lombard & Xu, in press)
+Clifford Nass and his colleagues proposed the Computers Are Social Actors (CASA) paradigm in the 1990s and demonstrated that we treat computers in some of the ways we treat humans. To account for technological advances and to refine explanations for CASA results, this paper proposes the Media Are Social Actors (MASA) paradigm. We begin by distinguishing the roles of primary and secondary cues in evoking medium-as-social-actor presence and social responses. We then discuss the roles of individual differences and contextual factors in these responses and identify mindless and mindful anthropomorphism as two major complementary mechanisms for understanding MASA phenomena. Based on evolutionary psychology explanations for socialness, we conclude with nine formal propositions and suggestions for future research to test and apply MASA.
+
+
+Empirical studies: Based on the theoretical framework, I conducted a series of studies to test the MASA paradigm. 
+
+Xu, K. (2019). First encounter with robot Alpha: How individual differences interact with vocal and kinetic cues in users’ social responses. New Media & Society, 21, 2522-2547. [PDF](~/Documents/GitHub/kunxu.github.io/Publications/Xu 2019 Robot alpha.pdf) 
+
+Xu, K. (2020). Language, modality, and mobile media use experiences: Social responses to smartphone cues in a task-oriented context. Telematics and Informatics, 48. [PDF](~/Documents/GitHub/kunxu.github.io/Publications/Xu 2020 Mobile phone study.pdf)
+
+
+
+
+
+
+Area 2: A theoretifical framework of social cues and social presence
+
+
+
+Area 3: computational studies and general media effects studies
+
+
+
