@@ -1,5 +1,33 @@
 ---
-title: "Teaching"
+title: "Teaching Experiences"
 ---
 
-Here is my teaching.
+University of Florida:
+
+ - Fall 2020: MMC 6936 Human-Machine Communication (Advanced graduate level)
+ - Fall 2020: RTV 3405 Media and Society (70 students)
+ - Spring 2020: MMC 6936 Computer-Mediated Communication (Graduate level)
+ - Spring 2020: RTV 3405 Media and Society (~110 students)
+ - Fall 2019: RTV 3405 Media and Society (~130 students)
+
+Temple University:
+
+- Spring 2019: MSP 3471 Media and Cultural Differences
+- Spring 2019: MSP 2741 Internet Studies and Web Authoring (section 701), online course
+- Spring 2018: MSP 4541 Mobile Media (section 401)
+- Spring 2018: MSP 4541 Mobile Media (section 001)
+- Fall 2017: MSP 4541 Mobile Media (section 001)
+- Fall 2017: MSP 4541 Mobile Media (section 002)
+- Summer 2017: MSP 3421 Technology and Culture
+- Spring 2017: MSP 3421 Technology and Culture
+- Spring 2017: MSP 4541 Mobile Media
+- Fall 2016: MSP 0821 Future of Your TV
+
+Based on my teaching specialities, in addition to the courses listed above, I am willing to offer courses related to
+
+- Emerging Media Technologies
+- Social Psychology in Communication
+- Psychological Processing of Media
+- Media Theories
+- Quantitative Research Methods (e.g., survey design, experiment design, basic inferential statistics)
+- Advanced Quantitative Research Methods (e.g., multivariate analyses, structural equation modeling, multilevel modeling, spatial analyses)
