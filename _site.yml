@@ -13,5 +13,10 @@ navbar:
       href: about.html
     - text: "CV"
       href: about.html
+
+output:
+  html_document:
+    theme: flatly
+    css: style.css
     
     
