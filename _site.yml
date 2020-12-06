@@ -1,7 +1,7 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Kun Xu"
+  title: "Kun Xu's website"
   left:
     - text: "Home"
       href: index.html
@@ -13,10 +13,18 @@ navbar:
       href: about.html
     - text: "CV"
       href: about.html
+   right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<kun.xu@ufl.edu>
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/bigben219/
 
 output:
   html_document:
-    theme: flatly
+    theme: flatly  
     css: style.css
     
+## theme can be changed https://bootswatch.com/
+
+
     
