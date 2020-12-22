@@ -2,4 +2,4 @@
 title: "CV"
 ---
 
-Here is my [CV](~/Documents/GitHub/kunxu.github.io/Files/cv.pdf). Latest update: 11/15/2020.
+Here is my [CV](Files/cv.pdf). Latest update: 11/15/2020.

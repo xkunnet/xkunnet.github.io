@@ -4,8 +4,10 @@ title: "Teaching Experiences"
 
 University of Florida:
 
+ - Spring 2021: RTV 3405 Media and Society (~200 students)
+ - Spring 2021: MMC 6936 Computer-Mediated Communication (Graduate level)
  - Fall 2020: MMC 6936 Human-Machine Communication (Advanced graduate level)
- - Fall 2020: RTV 3405 Media and Society (70 students)
+ - Fall 2020: RTV 3405 Media and Society (~70 students)
  - Spring 2020: MMC 6936 Computer-Mediated Communication (Graduate level)
  - Spring 2020: RTV 3405 Media and Society (~110 students)
  - Fall 2019: RTV 3405 Media and Society (~130 students)
@@ -25,7 +27,6 @@ Temple University:
 
 Based on my teaching specialities, in addition to the courses listed above, I am willing to offer courses related to
 
-- Emerging Media Technologies
 - Social Psychology in Communication
 - Psychological Processing of Media
 - Media Theories
