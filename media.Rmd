@@ -1,0 +1,10 @@
+---
+title: "Media Coverage"
+output: html_document
+---
+
+
+- First encounter with Robot Alpha: How individuals respond to social robot’s vocal cues and gestural cues. Published on [Medium](https://medium.com/university-of-florida-college-of-journalism-and/first-encounter-with-robot-alpha-how-individuals-respond-to-social-robots-vocal-cues-and-gestures-1395c8bb506d), September 7, 2019
+
+- Explicating cues: A typology for understanding emerging technologies. Published on [Medium](https://medium.com/university-of-florida-college-of-journalism-and/explicating-cues-a-typology-for-understanding-emerging-media-technologies-c76509e428a8). January 14, 2020.
+

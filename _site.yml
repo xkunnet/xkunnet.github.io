@@ -7,13 +7,15 @@ navbar:
       href: index.html
     - text:  "Research"
       href: research.html
-    - text:  "Teaching"
-      href: teaching.html
-    - text:  "CV"
-      href: cv.html
     - text:  "Publications"
       href: publications.html
-    
+    - text:  "Teaching"
+      href: teaching.html
+    - text: "Media"
+      href: media.html
+    - text:  "CV"
+      href: cv.html
+
 
 output:
   html_document:
