@@ -11,10 +11,13 @@ navbar:
       href: teaching.html
     - text:  "CV"
       href: cv.html
+    - text:  "Publications"
+      href: publications.html
+    
 
 output:
   html_document:
-    theme: flatly 
+    theme: simplex
     css: style.css
 
 

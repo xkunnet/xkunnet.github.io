@@ -1,5 +1,5 @@
 ---
-title: "publications.Rmd"
+title: "publications"
 output: html_document
 ---
 
