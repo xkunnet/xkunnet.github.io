@@ -14,7 +14,7 @@ navbar:
 
 output:
   html_document:
-    theme: flatly  
+    theme: flatly 
     css: style.css
 
 
