@@ -8,63 +8,63 @@ output: html_document
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
 
 
-Xu, K., Liu, F., Mou, Y., Zeng, J., & Schafer, M. (2020). Using machine learning to learn machines: A cross-cultural study of users’ responses to machine-generated art works. Journal of Broadcasting and Electronic Media. [PDF](publications/Xu et al. 2020 Using Machine Learning to Learn Machines A Cross Cultural Study of Users Responses to Machine Generated Artworks.pdf)
+Xu, K., Liu, F., Mou, Y., Zeng, J., & Schafer, M. (2020). Using machine learning to learn machines: A cross-cultural study of users’ responses to machine-generated art works. *Journal of Broadcasting and Electronic Media.* [PDF](publications/Xu et al. 2020 Using Machine Learning to Learn Machines A Cross Cultural Study of Users Responses to Machine Generated Artworks.pdf)
 
 
-Lombard, M., & Xu, K. (corresponding author) (Accepted). Social responses to media technologies: The Media are Social Actors paradigm. Human-Machine Communication.  
+Lombard, M., & Xu, K. (corresponding author) (Accepted). Social responses to media technologies: The Media are Social Actors paradigm. *Human-Machine Communication.*  
 
 
-Xu, K. (2020). Language, modality, and mobile media use experiences: Social responses to smartphone cues in a task-oriented context. Telematics and Informatics, 48, 101344 [PDF](publications/Xu 2020 Mobile phone study.pdf)
+Xu, K. (2020). Language, modality, and mobile media use experiences: Social responses to smartphone cues in a task-oriented context. *Telematics and Informatics, 48,* 101344 [PDF](publications/Xu 2020 Mobile phone study.pdf)
 
 
-Xu, K., & Liao, T. (2020). Explicating cues: A typology for understanding emerging media technologies. Journal of Computer-Mediated Communication, 25, 32-43. [PDF](publications/Xu & Liao Explicating Cues JCMC.pdf)
+Xu, K., & Liao, T. (2020). Explicating cues: A typology for understanding emerging media technologies. *Journal of Computer-Mediated Communication, 25,* 32-43. [PDF](publications/Xu & Liao Explicating Cues JCMC.pdf)
 
 
-Kim, J., Merrill, K., Xu, K., & Sellnow, D. (2020). My teacher is a machine: Understanding students’ perception of AI teaching assistants in online education. International Journal of Human-Computer Interaction, 36(20), 1902-1911. [PDF](publications/Kim et al. 2020.pdf)
+Kim, J., Merrill, K., Xu, K., & Sellnow, D. (2020). My teacher is a machine: Understanding students’ perception of AI teaching assistants in online education. *International Journal of Human-Computer Interaction, 36,* 1902-1911. [PDF](publications/Kim et al. 2020.pdf)
 
 
-Liao, T., & Xu, K. (2020). A process approach to understanding multiple open source innovation contests: Assessing the contest structures, execution, and participant responses in the Android Developer Challenges. Information and Organization, 30. [PDF](publications/Liao & Xu Android contest I&O .pdf)
+Liao, T., & Xu, K. (2020). A process approach to understanding multiple open source innovation contests: Assessing the contest structures, execution, and participant responses in the Android Developer Challenges. *Information and Organization, 30.* [PDF](publications/Liao & Xu Android contest I&O .pdf)
 
 
-Liao, T., Yang, H., Lee, S., Xu, K., & Bennett, S. (2020). Augmented criminality: How people process in-situ augmented reality crime information in relation to space/place. Mobile Media & Communication, 8, 360-378. [PDF](publications/liao et al. augmented reality.pdf)
+Liao, T., Yang, H., Lee, S., Xu, K., & Bennett, S. (2020). Augmented criminality: How people process in-situ augmented reality crime information in relation to space/place. *Mobile Media & Communication, 8,* 360-378. [PDF](publications/liao et al. augmented reality.pdf)
 
 
-Wu, Y., Mou, Y., Li, Z., & Xu, K. (2020). Investigating American and Chinese subjects’ explicit and implicit perceptions of AI-generated artistic work. Computers in Human Behavior, 104, 106186. [PDF](publications/Wu et al. (2020) Chinese American implicit and explicit.pdf)
+Wu, Y., Mou, Y., Li, Z., & Xu, K. (2020). Investigating American and Chinese subjects’ explicit and implicit perceptions of AI-generated artistic work. *Computers in Human Behavior, 104,* 106186. [PDF](publications/Wu et al. (2020) Chinese American implicit and explicit.pdf)
 
 
-Xu, K. (2019). First encounter with robot Alpha: How individual differences interact with vocal and kinetic cues in users’ social responses. New Media & Society, 21, 2522-2547. [PDF](publications/Xu 2019 Robot alpha.pdf)
+Xu, K. (2019). First encounter with robot Alpha: How individual differences interact with vocal and kinetic cues in users’ social responses. *New Media & Society, 21,* 2522-2547. [PDF](publications/Xu 2019 Robot alpha.pdf)
 
 
-Mou, Y., Xu, K., & Xia, K. (2019). Unpacking the black box: Examining the (de)gender categorization effect in human-machine communication. Computers in Human Behavior, 90, 380-387. [PDF](publications/Mou Xu Xia gender decategorization effect.pdf)
+Mou, Y., Xu, K., & Xia, K. (2019). Unpacking the black box: Examining the (de)gender categorization effect in human-machine communication. *Computers in Human Behavior, 90,* 380-387. [PDF](publications/Mou Xu Xia gender decategorization effect.pdf)
 
 
-Mou, Y., Shi, C., Shen, T., Xu, K. (2019). A systematic review of the personality of robot: Mapping its conceptualization, operationalization, contextualization, and effects. International Journal of Human-Computer Interaction, 36(6), 591-605. [PDF](publications/Mou et al 2019 A Systematic Review.pdf)
+Mou, Y., Shi, C., Shen, T., Xu, K. (2019). A systematic review of the personality of robot: Mapping its conceptualization, operationalization, contextualization, and effects. *International Journal of Human-Computer Interaction, 36*, 591-605. [PDF](publications/Mou et al 2019 A Systematic Review.pdf)
 
 
-Xu, K. (2018). Painting Chinese mythology: Varying touches on the magazine covers of Time, The Economist, Der Spiegel, and China Today. International Communication Gazette, 80, 135-157. [PDF](publications/Xu_Painting Chinese Methology.pdf)
+Xu, K. (2018). Painting Chinese mythology: Varying touches on the magazine covers of Time, The Economist, Der Spiegel, and China Today. *International Communication Gazette, 80,* 135-157. [PDF](publications/Xu_Painting Chinese Methology.pdf)
 
 
-Xu, K. (2018). Location speaks: Using GIS approach and Weibo check-in data to understand information communication in China. China Media Research, 14, 29-43. [PDF](publications/Xu Location speaks.pdf)
+Xu, K. (2018). Location speaks: Using GIS approach and Weibo check-in data to understand information communication in China. *China Media Research, 14,* 29-43. [PDF](publications/Xu Location speaks.pdf)
 
 
-Steiner, E., & Xu, K. (2018). Binge-watching motivates change: How the uses and gratifications of streaming video viewers are challenging traditional audience research. Convergence: The International Journal of Research into New Media Technologies, 26(1), 82-101. [PDF](publications/Steiner_Xu_bingewatching.pdf)
+Steiner, E., & Xu, K. (2018). Binge-watching motivates change: How the uses and gratifications of streaming video viewers are challenging traditional audience research. *Convergence: The International Journal of Research into New Media Technologies, 26*(1), 82-101. [PDF](publications/Steiner_Xu_bingewatching.pdf)
 
 
-Xu, K., & Lombard, M. (2017). Persuasive computing: Feeling peer pressure from multiple computer agents. Computers in Human Behavior, 74, 152-162. [PDF](publications/Xu_Lombard_Persuasive computing.pdf)
+Xu, K., & Lombard, M. (2017). Persuasive computing: Feeling peer pressure from multiple computer agents. *Computers in Human Behavior, 74,* 152-162. [PDF](publications/Xu_Lombard_Persuasive computing.pdf)
 
 
-Mou, Y. & Xu, K. (2017). The media inequality: Comparing the initial human-human and human-AI social interactions. Computers in Human Behavior, 72, 432-440. [PDF](publications/Yi Xu_Media Inequality.pdf)
+Mou, Y. & Xu, K. (2017). The media inequality: Comparing the initial human-human and human-AI social interactions. *Computers in Human Behavior, 72,* 432-440. [PDF](publications/Yi Xu_Media Inequality.pdf)
 
 
-Xu, K., Lin, M., & Haridakis, P. (2015). Being addicted to Chinese Twitter: Exploring the roles of users’ expected outcomes and deficient self-regulation in social network service addiction. China Media Research, 11(2), 1-16. [PDF](publications/Xu et al -Being_addicted_to_Chinese_Twit.PDF)
+Xu, K., Lin, M., & Haridakis, P. (2015). Being addicted to Chinese Twitter: Exploring the roles of users’ expected outcomes and deficient self-regulation in social network service addiction. *China Media Research, 11*(2), 1-16. [PDF](publications/Xu et al -Being_addicted_to_Chinese_Twit.PDF)
 
 
 <font color="green">**Book Chapters:**</font>
 
 
-Lombard, M., Lee, S., Sun, W., Xu, K., & Yang, H. (2017). Presence theory. In P. Roessler, C. Hoffner, & L. Van-Zoonen (Eds.), International encyclopedia of media effects, pp. 1-13. Wiley-Blackwell. [PDF](publications/Lombard et al. presence theory.pdf)
+Lombard, M., Lee, S., Sun, W., Xu, K., & Yang, H. (2017). Presence theory. In P. Roessler, C. Hoffner, & L. Van-Zoonen (Eds.), *International encyclopedia of media effects,* pp. 1-13. Wiley-Blackwell. [PDF](publications/Lombard et al. presence theory.pdf)
 
-Mou, Y., Xu. K. (2017). Human-computer communication: An emerging communication realm. In B. Li., & Y., Mou. (Eds.), Future media: Opportunities and challenges, pp. 42-51. Shanghai: Shanghai Jiao Tong University Press.
+Mou, Y., Xu. K. (2017). Human-computer communication: An emerging communication realm. In B. Li., & Y., Mou. (Eds.), *Future media: Opportunities and challenges,* pp. 42-51. Shanghai: Shanghai Jiao Tong University Press.
 
 Wallace, M., & Knobel, B. (2017). Heat and light: Advice for the next generation of journalists. (C. Hua, & K. Xu, Trans.). PRC: China Renmin University Press Co., LTD. [Link to Douban](https://book.douban.com/subject/26972289/)
 
