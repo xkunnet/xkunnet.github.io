@@ -3,9 +3,9 @@ title: "Publications"
 output: html_document
 ---
 
-**Latest update: 11/15/2020.**
+<font color="red">**Latest update: 11/15/2020.**</font>
 
-<u>**Peer-Reviewed Journal Articles:**</u>
+<font color="green">**Peer-Reviewed Journal Articles:**</font>
 
 
 Xu, K., Liu, F., Mou, Y., Zeng, J., & Schafer, M. (2020). Using machine learning to learn machines: A cross-cultural study of users’ responses to machine-generated art works. Journal of Broadcasting and Electronic Media. [PDF](publications/Xu et al. 2020 Using Machine Learning to Learn Machines A Cross Cultural Study of Users Responses to Machine Generated Artworks.pdf)
@@ -59,8 +59,7 @@ Mou, Y. & Xu, K. (2017). The media inequality: Comparing the initial human-human
 Xu, K., Lin, M., & Haridakis, P. (2015). Being addicted to Chinese Twitter: Exploring the roles of users’ expected outcomes and deficient self-regulation in social network service addiction. China Media Research, 11(2), 1-16. [PDF](publications/Xu et al -Being_addicted_to_Chinese_Twit.PDF)
 
 
-
-<u>**Book Chapters:**</u>
+<font color="green">**Book Chapters:**</font>
 
 
 Lombard, M., Lee, S., Sun, W., Xu, K., & Yang, H. (2017). Presence theory. In P. Roessler, C. Hoffner, & L. Van-Zoonen (Eds.), International encyclopedia of media effects, pp. 1-13. Wiley-Blackwell. [PDF](publications/Lombard et al. presence theory.pdf)
@@ -70,7 +69,7 @@ Mou, Y., Xu. K. (2017). Human-computer communication: An emerging communication 
 Wallace, M., & Knobel, B. (2017). Heat and light: Advice for the next generation of journalists. (C. Hua, & K. Xu, Trans.). PRC: China Renmin University Press Co., LTD. [Link to Douban](https://book.douban.com/subject/26972289/)
 
 
-<u>**Conference Proceedings:**</u>
+<font color="green">**Conference Proceedings:**</font>
 
 Xu, K. (2018). Action speaks louder than words: A preliminary study of users’ social responses to social robots’ movements and voices. Proceedings of the 18th Conference of the International Society for Presence Research. ISBN: 978-0-9792217-6-7
 
