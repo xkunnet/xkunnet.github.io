@@ -16,7 +16,7 @@ In the past few years, my primary research has been centering on the concepts of
 
 [2] Testing the framework of the Media are Social Actors paradigm as an extension of the CASA paradigm; 
 
-[3] Testing a framework about the categorization and interaction of social cues and social presence in the contexts of human-robot interaction, VR, and AR;
+[3] Testing a framework about the categorization and interaction of social cues and social presence;
 
 [4] Computational studies and media effects studies.
 
