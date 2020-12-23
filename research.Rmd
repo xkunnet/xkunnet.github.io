@@ -2,7 +2,13 @@
 title: "Research Areas"
 ---
 
+&nbsp;
+&nbsp;
+
 In the past few years, my primary research has been centering on the concepts of social cues and social presence in human-computer interaction and computer-mediated communication. I am especially interested in how various combinations of social cues evoke users' social responses to social robotic technologies or technology-mediated social actors in VR or AR environments. 
+
+&nbsp;
+&nbsp;
 
 <font color="green">**My research program generally focuses on four aspects:**</font>
 
@@ -14,7 +20,8 @@ In the past few years, my primary research has been centering on the concepts of
 
 [4] Computational studies and media effects studies.
 
-
+&nbsp;
+&nbsp;
 
 <font color="green">**[1] Testing the Computers are Social Actors paradigm/the Media Equation:**</font>
 
@@ -23,9 +30,7 @@ In the past few years, my primary research has been centering on the concepts of
 Clifford Nass and his colleagues proposed the Computers Are Social Actors (CASA) paradigm in the 1990s and found that humans treat computers in some of the ways we treat humans. This first line of research applies this paradigm to explain more emerging technologies including social robots, chatbots, and other forms of AI-technologies. My coauthors and I use various methods (e.g., computational, systematic review, experiments) to test the validity of the paradigm and its concomitant counterarguments. (Picture credit: Reeves & Nass, 2000, perceptual user interfaces)
 
 
-
-
-Relevant publications:
+<u>Relevant publications:</u>
 
 Xu, K., Liu, F., Mou, Y., Zeng, J., & Schafer, M. (2020). Using machine learning to learn machines: A cross-cultural study of users’ responses to machine-generated art works. Journal of Broadcasting and Electronic Media. [PDF](publications/Xu et al. 2020 Using Machine Learning to Learn Machines A Cross Cultural Study of Users Responses to Machine Generated Artworks.pdf)
 
@@ -39,7 +44,8 @@ Mou, Y., Shi, C., Shen, T., Xu, K. (2019). A systematic review of the personalit
 
 Mou, Y. & Xu, K. (2017). The media inequality: Comparing the initial human-human and human-AI social interactions. Computers in Human Behavior, 72, 432-440. [PDF](publications/Yi Xu_Media Inequality.pdf)
 
-
+&nbsp;
+&nbsp;
 
 <font color="green">**[2] Testing the Media are Social Actors paradigm:**</font>
 
@@ -49,7 +55,7 @@ The MASA paradigm is an extension and an attempt to update the CASA paradigm. To
 
 ![](images/robot.png)
 
-Relevant publications: 
+<u>Relevant publications:</u>
 
 Lombard, M., & Xu, K. (corresponding author) (Accepted). Social responses to media technologies: The Media are Social Actors paradigm. Human-Machine Communication.  
 
@@ -61,7 +67,8 @@ Xu, K. (2019). First encounter with robot Alpha: How individual differences inte
 Lombard, M., Lee, S., Sun, W., Xu, K., & Yang, H. (2017). Presence theory. In P. Roessler, C. Hoffner, & L. Van-Zoonen (Eds.), International encyclopedia of media effects, pp. 1-13. Wiley-Blackwell. [PDF](publications/Lombard et al. presence theory.pdf)
 
 
-
+&nbsp;
+&nbsp;
 
 <font color="green">**[3] Testing a framework about the categorization and interaction of social cues and social presence in the contexts of human-robot interaction, VR, and AR**</font>
 
@@ -72,7 +79,7 @@ Since the advent of computing machines, scholars have theorized about the relati
 
 ![](images/SIDEme.png)
 
-Relevant publications: 
+<u>Relevant publications:</u>
 
 Xu, K., & Liao, T. (2020). Explicating cues: A typology for understanding emerging media technologies. Journal of Computer-Mediated Communication, 25, 32-43. [PDF](publications/Xu & Liao Explicating Cues JCMC.pdf)
 
@@ -81,7 +88,8 @@ Liao, T., Yang, H., Lee, S., Xu, K., & Bennett, S. (2020). Augmented criminality
 Xu, K., & Lombard, M. (2017). Persuasive computing: Feeling peer pressure from multiple computer agents. Computers in Human Behavior, 74, 152-162. [PDF](publications/Xu_Lombard_Persuasive computing.pdf)
 
 
-
+&nbsp;
+&nbsp;
 
 <font color="green">**[4] Computational studies and media effects studies.**</font>
 
@@ -89,7 +97,7 @@ Xu, K., & Lombard, M. (2017). Persuasive computing: Feeling peer pressure from m
 
 While my primary focus has been centered on social robotics, virtual and augmented technologies, I have been interested in some other media-related phenomena such as binge-watching, location-based mobile social networks, globalization, visual analyses, and media dependency. Here I am listing some other research that concentrates on these topics.
 
-Relevant publications: 
+<u>Relevant publications:</u>
 
 Xu, K. (2018). Painting Chinese mythology: Varying touches on the magazine covers of Time, The Economist, Der Spiegel, and China Today. International Communication Gazette, 80, 135-157. [PDF](publications/Xu_Painting Chinese Methology.pdf)
 

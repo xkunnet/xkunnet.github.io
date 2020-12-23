@@ -15,6 +15,17 @@ navbar:
       href: media.html
     - text:  "CV"
       href: cv.html
+    - text:  "Contact/中文"
+      href: contact.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<kun.xu@ufl.edu>
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/bigben219
+    - icon: fa-github fa-lg
+      href: https://github.com/xkunnet
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/kun-xu/
 
 
 output:
