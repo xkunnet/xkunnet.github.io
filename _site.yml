@@ -20,6 +20,8 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<kun.xu@ufl.edu>
+    - icon: fa-google fa-lg
+      href: https://scholar.google.com/citations?user=ojzP8I0AAAAJ&hl=en
     - icon: fa-twitter fa-lg
       href: https://twitter.com/bigben219
     - icon: fa-github fa-lg
