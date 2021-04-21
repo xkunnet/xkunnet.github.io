@@ -59,7 +59,7 @@ The MASA paradigm is an extension and an attempt to update the CASA paradigm. To
 
 <u>Relevant publications:</u>
 
-Lombard, M., & Xu, K. (2021). Social responses to media technologies: The Media are Social Actors paradigm. *Human-Machine Communication, 2,* 29-55. [PDF](publications/Lombard & Xu 2021 Social Responses to Media Technologies in the 21st Century_ The M.pdf)  
+Lombard, M., & Xu, K. (2021). Social responses to media technologies: The Media are Social Actors paradigm. *Human-Machine Communication, 2,* 29-55. [PDF](publications/Lombard & Xu 2021 Social Responses to Media Technologies in the 21st Century_ The M.pdf)
 
 Xu, K. (2020). Language, modality, and mobile media use experiences: Social responses to smartphone cues in a task-oriented context. Telematics and Informatics, 48, 101344 [PDF](publications/Xu 2020 Mobile phone study.pdf)
 
