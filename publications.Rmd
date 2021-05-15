@@ -3,12 +3,12 @@ title: "Publications"
 output: html_document
 ---
 
-<font color="red">**Latest update: 04/01/2021.**</font>
+<font color="red">**Latest update: 05/15/2021.**</font>
 
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
 
 
-Kim, J., Merrill, K., Xu, K., & Sellnow, D. (2021). I like my relational machine teacher: An AI instructor’s communication styles and social presence in online education. *International Journal of Human-Computer Interaction.*
+Kim, J., Merrill, K., Xu, K., & Sellnow, D. (2021). I like my relational machine teacher: An AI instructor’s communication styles and social presence in online education. *International Journal of Human-Computer Interaction.* [PDF](Publications/Kim et al. 2021 I Like My Relational Machine Teacher An AI Instructor s Communication Styles and Social Presence in Online Education.pdf)
 
 Lombard, M., & Xu, K. (2021). Social responses to media technologies: The Media are Social Actors paradigm. *Human-Machine Communication, 2,* 29-55. [PDF](Publications/Lombard & Xu 2021 Social Responses to Media Technologies in the 21st Century_ The M.pdf)
 

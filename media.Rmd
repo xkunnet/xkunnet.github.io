@@ -3,6 +3,9 @@ title: "Media Coverage"
 output: html_document
 ---
 
+- Language, Modality, and Mobile Media Use Experiences: Social Responses to Smartphone Cues in a Task-Oriented Context [Medium](https://medium.com/university-of-florida-college-of-journalism-and/language-modality-and-mobile-media-use-experiences-social-responses-to-smartphone-cues-in-a-7fa7e07376e6). May 4, 2021
+
+- Language, Modality, and Mobile Media Use Experiences: Social Responses to Smartphone Cues in a Task-Oriented Context [UFCJC Research & Insights](https://www.jou.ufl.edu/insights/language-modality-and-mobile-media-use-experiences-social-responses-to-smartphone-cues-in-a-task-oriented-context/). May 4, 2021
 
 - Does the popularity of Clubhouse Mean the “Good Old Days” are Back? Authored on [Medium](https://medium.com/university-of-florida-college-of-journalism-and/does-the-popularity-of-clubhouse-mean-the-good-old-days-are-back-69a863a3918e). February 8, 2021
 
