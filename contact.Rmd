@@ -4,7 +4,7 @@ output: html_document
 ---
 
 
-Department of Media Production, Management, and Technology 
+Department of Media Production, Management, and Technology  
 College of Journalism and Communications  
 University of Florida  
 1885 Stadium Rd, Gainesville, FL 32611  
