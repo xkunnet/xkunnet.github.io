@@ -4,6 +4,8 @@ title: "Independent Teaching Experiences"
 
 **University of Florida (2019-present):**
 
+ - Fall 2021: MMC 6936 Human-Machine Communication (Advaanced graduate level)
+ - Fall 2021: RTV 3405 Media and Society (~50 students)
  - Spring 2021: RTV 3405 Media and Society (~200 students)
  - Spring 2021: MMC 6936 Computer-Mediated Communication (Graduate level)
  - Fall 2020: MMC 6936 Human-Machine Communication (Advanced graduate level)
@@ -28,6 +30,7 @@ title: "Independent Teaching Experiences"
 **Based on my teaching specialities, in addition to the courses listed above, I am willing to offer courses related to**
 
 - Social Psychology in Communication
+- User experience design
 - Psychological Processing of Media
 - Media Theories
 - Quantitative Research Methods (e.g., survey design, experiment design, basic inferential statistics)
