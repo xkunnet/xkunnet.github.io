@@ -8,7 +8,7 @@ output: html_document
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
 
 
-Xu, K., Chan-Olmsted, S., & Liu, F. (accepted). Smart speakers require smart management: Two routes from user gratifications to privacy settings. *International Journal of Communication." 
+Xu, K., Chan-Olmsted, S., & Liu, F. (accepted). Smart speakers require smart management: Two routes from user gratifications to privacy settings. *International Journal of Communication.* 
 
 Kim, J., Merrill, K., Xu, K., & Sellnow, D. (2021). I like my relational machine teacher: An AI instructor’s communication styles and social presence in online education. *International Journal of Human-Computer Interaction.* [PDF](publications/Kim et al. 2021 I Like My Relational Machine Teacher An AI Instructor s Communication Styles and Social Presence in Online Education.pdf)
 
