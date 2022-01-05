@@ -4,9 +4,9 @@ title: "Independent Teaching Experiences"
 
 **University of Florida (2019-present):**
 
- - Spring 2022: MMC 6936 Computer-Mediated Communication (Graduate level)
+ - Spring 2022: MMC 6936 Computer-Mediated Communication (Graduate level) [reading list](Files/CMC readings.pdf)
  - Spring 2022 RTV 3405 Media and Society (~70 students)
- - Fall 2021: MMC 6936 Human-Machine Communication (Advanced graduate level)
+ - Fall 2021: MMC 6936 Human-Machine Communication (Advanced graduate level) [reading list](Files/HMC reading list.pdf)
  - Fall 2021: RTV 3405 Media and Society (~50 students)
  - Spring 2021: RTV 3405 Media and Society (~200 students)
  - Spring 2021: MMC 6936 Computer-Mediated Communication (Graduate level)
