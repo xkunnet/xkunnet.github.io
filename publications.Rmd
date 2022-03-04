@@ -10,7 +10,7 @@ output: html_document
 
 Xu, K., Chan-Olmsted, S., & Liu, F. (2022). Smart speakers require smart management: Two routes from user gratifications to privacy settings. *International Journal of Communication, 16,* 192-214. [PDF](publications/Xu et al. 2022 Smartspeakers.pdf)
 
-Kim, J., Xu, K., Merrill, K. (accepted). Man vs machine: Human responses to an AI newscaster and the role of social presence. *The Social Science Journal.*
+Kim, J., Xu, K., Merrill, K. (2022). Man vs machine: Human responses to an AI newscaster and the role of social presence. *The Social Science Journal.* [PDF](publications/Kim et al 2022 Man vs machine.pdf)
 
 Kim, J., Merrill, K., Xu, K., & Sellnow, D. (accepted). Embracing AI-based education: Perceived social presence of human teachers and expectations about machine teachers in online education. *Human-Machine Communication.* 
 

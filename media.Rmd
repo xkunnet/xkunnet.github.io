@@ -3,21 +3,18 @@ title: "Media Coverage"
 output: html_document
 ---
 
-- Language, Modality, and Mobile Media Use Experiences: Social Responses to Smartphone Cues in a Task-Oriented Context [Medium](https://medium.com/university-of-florida-college-of-journalism-and/language-modality-and-mobile-media-use-experiences-social-responses-to-smartphone-cues-in-a-7fa7e07376e6). May 4, 2021
+- Man vs. machine: Human responses to AI. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/man-vs-machine-human-responses-to-ai-7cc8d9c3251c). Feb 10, 2022
 
-- Language, Modality, and Mobile Media Use Experiences: Social Responses to Smartphone Cues in a Task-Oriented Context [UFCJC Research & Insights](https://www.jou.ufl.edu/insights/language-modality-and-mobile-media-use-experiences-social-responses-to-smartphone-cues-in-a-task-oriented-context/). May 4, 2021
+- Smart speakers require smart management [Medium](https://medium.com/university-of-florida-college-of-journalism-and/smart-speakers-require-smart-management-b447160dd6b5). January 13, 2022
+
+- Language, Modality, and Mobile Media Use Experiences: Social Responses to Smartphone Cues in a Task-Oriented Context [Medium](https://medium.com/university-of-florida-college-of-journalism-and/language-modality-and-mobile-media-use-experiences-social-responses-to-smartphone-cues-in-a-7fa7e07376e6). May 4, 2021
 
 - Does the popularity of Clubhouse Mean the “Good Old Days” are Back? Authored on [Medium](https://medium.com/university-of-florida-college-of-journalism-and/does-the-popularity-of-clubhouse-mean-the-good-old-days-are-back-69a863a3918e). February 8, 2021
 
-- Does the popularity of Clubhouse Mean the “Good Old Days” are Back? Authored on [UFCJC Research & Insights](https://www.jou.ufl.edu/insights/does-the-popularity-of-clubhouse-mean-the-good-old-days-are-back/). February 8, 2021
-
 - Explicating cues: A typology for understanding emerging technologies. Published on [Medium](https://medium.com/university-of-florida-college-of-journalism-and/explicating-cues-a-typology-for-understanding-emerging-media-technologies-c76509e428a8). January 14, 2020
-
-- Explicating cues: A typology for understanding emerging technologies. Published on [UFCJC Research & Insights](https://www.jou.ufl.edu/insights/explicating-cues-a-typology-for-understanding-emerging-media-technologies/), January 14, 2020
 
 - First encounter with Robot Alpha: How individuals respond to social robot’s vocal cues and gestural cues. Published on [Medium](https://medium.com/university-of-florida-college-of-journalism-and/first-encounter-with-robot-alpha-how-individuals-respond-to-social-robots-vocal-cues-and-gestures-1395c8bb506d), September 7, 2019
 
-- First encounter with Robot Alpha: How individuals respond to social robot’s vocal cues and gestural cues. Published on [UFCJC Research & Insights](https://www.jou.ufl.edu/insights/first-encounter-with-robot-alpha-how-individuals-respond-to-social-robots-vocal-cues-and-gestures/), September 7, 2019
 
 
 
