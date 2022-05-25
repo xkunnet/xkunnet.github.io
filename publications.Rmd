@@ -3,7 +3,7 @@ title: "Publications"
 output: html_document
 ---
 
-<font color="red">**Latest update: 05/22/2022.**</font>
+<font color="red">**Latest update: 05/23/2022.**</font>
 
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
 
