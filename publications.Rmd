@@ -27,7 +27,7 @@ Xu, K., Liu, F., Mou, Y., Zeng, J., & Schafer, M. (2020). Using machine learning
 Xu, K. (2020). Language, modality, and mobile media use experiences: Social responses to smartphone cues in a task-oriented context. *Telematics and Informatics, 48,* 101344 [PDF](publications/Xu 2020 Mobile phone study.pdf)
 
 
-Xu, K., & Liao, T. (2020). Explicating cues: A typology for understanding emerging media technologies. *Journal of Computer-Mediated Communication, 25,* 32-43. [PDF](publications/Xu & Liao Explicating Cues JCMC.pdf)
+Xu, K., & Liao, T. (2020). Explicating cues: A typology for understanding emerging media technologies. *Journal of Computer-Mediated Communication, 25,* 32-43. [PDF](publications/Xu & Liao Explicating Cues JCMC.pdf); [Long Version](publications/ICA paper 5.30 Kun & Tony.pdf)
 
 
 Kim, J., Merrill, K., Xu, K., & Sellnow, D. (2020). My teacher is a machine: Understanding students’ perception of AI teaching assistants in online education. *International Journal of Human-Computer Interaction, 36,* 1902-1911. [PDF](publications/Kim et al. 2020.pdf)

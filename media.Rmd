@@ -3,6 +3,8 @@ title: "Media Coverage"
 output: html_document
 ---
 
+- The psychological mechanisms behind users’ social response to emerging technologies. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/the-psychological-mechanisms-behind-users-social-response-to-emerging-technologies-5e3fd54ca5f7). May 20, 2022
+
 - Man vs. machine: Human responses to AI. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/man-vs-machine-human-responses-to-ai-7cc8d9c3251c). Feb 10, 2022
 
 - Smart speakers require smart management [Medium](https://medium.com/university-of-florida-college-of-journalism-and/smart-speakers-require-smart-management-b447160dd6b5). January 13, 2022
