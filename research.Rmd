@@ -11,9 +11,6 @@ I identify myself as an HCI scholar who focuses on the roles of social cues and 
 
 I was honored and lucky to have been advised by two great scholars in the areas of presence and virtual/augmented reality: [Dr. Matthew Lombard](https://klein.temple.edu/faculty/matthew-lombard) and [Dr. Tony Liao](https://www.uhcougarlab.com/aboutus). 
 
-&nbsp;
-&nbsp;
-
 <font color="green">**My research program subsumes three general directions:**</font>
 
 [1] Testing and extending the Computers are Social Actors (CASA) paradigm to the Media are Social Actors (MASA) paradigm;
@@ -78,8 +75,6 @@ Xu, K., & Lombard, M. (2017). Persuasive computing: Feeling peer pressure from m
 
 ![](images/Reevespicture.png)
 The last line of my research focuses on combining traditional social science approaches and novel methods to explore users’ emerging media use phenomena. I am particularly interested in using machines to learn about the real world, as was demonstrated as P2 in the image on the left (Picture credit: Reeves & Nass, 2000, perceptual user interfaces)
-
-&nbsp;
 
 In the past, I have combined location-based social networks and geographic information system (GIS) to demonstrate WHERE public opinion leaders influence the discussion about a public event in mainland China, and how points of interests guide users’ check-in behavior. I found that the power of locative mobile social networks over space creation can be influenced by users’ access to technologies, socioeconomic environments, social identities, politics, geographic proximity to the event location, and the city infrastructure. 
  

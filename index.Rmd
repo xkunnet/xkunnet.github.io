@@ -7,7 +7,7 @@ title: "About Me"
 
 My name is Kun Xu. I am an assistant professor of emerging media at [the University of Florida College of Journalism and Communications](https://www.jou.ufl.edu/). 
 
-My research focuses on human-robot interaction, human-computer interaction, and psychological processing of media. I use social scientific approaches to investigate how people perceive, evaluate, and interact with social robots, computer agents, and virtual assistants. I am also interested in how people make sense of spaces and maintain social relationships in virtual and augmented reality environments. 
+My research focuses on human-robot interaction, human-computer interaction, computer-mediated communication, and psychological processing of media. I use social scientific approaches to investigate how people perceive, evaluate, and interact with social robots, computer agents, and virtual assistants. I am also interested in how people make sense of spaces and maintain social relationships in virtual and augmented reality environments. 
 
 My research seeks to inform UI design, UX design, education, health communication, and political communication. I use lab experiments, multivariate/modeling techniques (SEM and HLM), computational methods (GIS, machine learning), and visual analyses in my works.
 
