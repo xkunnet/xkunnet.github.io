@@ -11,6 +11,9 @@ I identify myself as an HCI scholar who focuses on the roles of social cues and 
 
 I was honored and lucky to have been advised by two great scholars in the areas of presence and virtual/augmented reality: [Dr. Matthew Lombard](https://klein.temple.edu/faculty/matthew-lombard) and [Dr. Tony Liao](https://www.uhcougarlab.com/aboutus). 
 
+&nbsp;
+&nbsp;
+
 <font color="green">**My research program subsumes three general directions:**</font>
 
 [1] Testing and extending the Computers are Social Actors (CASA) paradigm to the Media are Social Actors (MASA) paradigm;
@@ -37,6 +40,7 @@ Similarly, in a task-oriented context, I compared the effects of voice vs. text 
 ![](images/multidimensional.png)
 Furthermore, my coauthors and I combined multidimensional scaling and the quadratic assignment procedure to understand individuals’ fundamental psychological mechanisms in responding to technologies. We noticed that despite past mixed findings of mindfulness and mindlessness, mindlessness featured greater explanatory power underlying users’ social responses to technologies ranging from robotic vacuum cleaners and hardcover books to social robots and smartwatches. 
 
+&nbsp;
 
 <u>Relevant publications:</u>
 
@@ -61,6 +65,7 @@ If the first line of my research describes how technologies may be designed to b
 
 One empirical study that features this line of work was about how individuals may yield to peer pressure from multiple computer agents via even minimal control of visual cues. Combining the Social Identity Model of De-individuation Effects (SIDE) and the Media Equation, we noticed that individuals may succumb to computer agents’ group pressure even if they are aware of the nature of the machines. 
 
+&nbsp;
 
 <u>Relevant publications:</u>
 
@@ -82,14 +87,6 @@ The last line of my research focuses on combining traditional social science app
 
 ![](images/stm.png)
 In another study, my coauthors and I have combined machine learning approaches (e.g., structural topic modeling) and online experiments to investigate how different genres of artworks, intercultural differences, authorship cues influence participants’ aesthetic evaluation of machine-generated works. 
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp; 
  
 ![](images/AR map.png)
 In a study on augmented reality, my coauthors and I used spatial triad and qualitative methods to explain how people read places through the lens of AR, and also how they extrapolate, speculate, and make associations from AR information. 
