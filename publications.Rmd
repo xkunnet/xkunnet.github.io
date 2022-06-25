@@ -5,6 +5,8 @@ output: html_document
 
 <font color="red">**Latest update: 06/01/2022.**</font>
 
+&nbsp;
+
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
 
 Liu, F., Makady, H., Xu, K. (corresponding author) (accepted). Mapping the landscape of human-machine communication research: A systematic review of empirical research from 2010 to 2021. *New Media & Society.* 
@@ -15,11 +17,11 @@ Xu, K., Chan-Olmsted, S., & Liu, F. (2022). Smart speakers require smart managem
 
 Kim, J., Xu, K., Merrill, K. (2022). Man vs machine: Human responses to an AI newscaster and the role of social presence. *The Social Science Journal.* [PDF](publications/Kim et al 2022 Man vs machine.pdf)
 
-Kim, J., Merrill, K., Xu, K., & Sellnow, D. (accepted). Embracing AI-based education: Perceived social presence of human teachers and expectations about machine teachers in online education. *Human-Machine Communication.* 
+Kim, J., Merrill, K., Xu, K., & Sellnow, D. (accepted). Embracing AI-based education: Perceived social presence of human teachers and expectations about machine teachers in online education. *Human-Machine Communication, 4,* 169-184. [PDF](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1084&context=hmc#page=169) 
 
 Kim, J., Merrill, K., Xu, K., & Sellnow, D. (2021). I like my relational machine teacher: An AI instructor’s communication styles and social presence in online education. *International Journal of Human-Computer Interaction.* [PDF](publications/Kim et al. 2021 I Like My Relational Machine Teacher An AI Instructor s Communication Styles and Social Presence in Online Education.pdf)
 
-Lombard, M., & Xu, K. (corresponding author) (2021). Social responses to media technologies: The Media are Social Actors paradigm. *Human-Machine Communication, 2,* 29-55. [PDF](publications/Lombard & Xu 2021 Social Responses to Media Technologies in the 21st Century_ The M.pdf)
+Lombard, M., & Xu, K. (corresponding author) (2021). Social responses to media technologies: The Media are Social Actors paradigm. *Human-Machine Communication, 2,* 29-55. [PDF](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1030&context=hmc)
 
 Xu, K., Liu, F., Mou, Y., Zeng, J., & Schafer, M. (2020). Using machine learning to learn machines: A cross-cultural study of users’ responses to machine-generated art works. *Journal of Broadcasting and Electronic Media, 64,* 566-591. [PDF](publications/Xu et al. 2020 Using Machine Learning to Learn Machines A Cross Cultural Study of Users Responses to Machine Generated Artworks.pdf)
 
