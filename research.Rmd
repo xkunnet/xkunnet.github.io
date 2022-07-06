@@ -101,3 +101,5 @@ Xu, K. (2018). Location speaks: Using GIS approach and Weibo check-in data to un
 Xu, K., Liu, F., Mou, Y., Zeng, J., & Schafer, M. (2020). Using machine learning to learn machines: A cross-cultural study of users’ responses to machine-generated art works. *Journal of Broadcasting and Electronic Media, 64,* 566-591. [PDF](publications/Xu et al. 2020 Using Machine Learning to Learn Machines A Cross Cultural Study of Users Responses to Machine Generated Artworks.pdf)
 
 Liao, T., Yang, H., Lee, S., Xu, K., & Bennett, S. (2020). Augmented criminality: How people process in-situ augmented reality crime information in relation to space/place. *Mobile Media & Communication, 8,* 360-378. [PDF](publications/liao et al. augmented reality.pdf)
+
+Xu, K., Chan-Olmsted, S., & Liu, F. (2022). Smart speakers require smart management: Two routes from user gratifications to privacy settings. *International Journal of Communication, 16,* 192-214. [PDF](publications/Xu et al. 2022 Smartspeakers.pdf)
