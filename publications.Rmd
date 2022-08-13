@@ -9,7 +9,6 @@ output: html_document
 
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
 
-Liu, F., Makady, H., Xu, K. (corresponding author) (accepted). Mapping the landscape of human-machine communication research: A systematic review of empirical research from 2010 to 2021. *New Media & Society.* 
 
 Xu, K., Chen, X., & Huang, L. (2022). Deep mind in social responses to technologies: A new approach to explaining the Computers are Social Actors phenomena. *Computers in Human Behavior, 134,* 107321. [PDF](publications/Xu et al. 2022 Deep mind in social responses.pdf)
 
