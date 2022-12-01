@@ -43,6 +43,7 @@ title: "Independent Teaching Experiences"
 - Co-chair, Fanjue Liu, UFCJC
 - Chair, Jiayue Li, UFCJC
 - Member, Andrew Maxim, Department of Computer and Information Science and Engineering, UF
+- Member, Weizi Liu, Informatics/Communication and Media, University of Illinois Urbana-Champaign 
 - Member, Heidi Makady, UFCJC
 - Member, Yoo Jin Chung, UFCJC, graduated 2022
 - Member, Larissa Neuburger, Department of Tourism, Hospitality, and Event Management, UF, graduated 2021
