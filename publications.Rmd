@@ -10,7 +10,7 @@ output: html_document
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
 
 
-Xu, K., Chen, M., & You, L. (accepted). The hitchhiker's guide to a credible and socially present robot: Two meta-analyses of the power of social cues in human-robot interaction. *International Journal of Social Robotics,*  [PDF](publications/Xu et al. 2023 Meta-Analyses.pdf)
+Xu, K., Chen, M., & You, L. (2023). The hitchhiker's guide to a credible and socially present robot: Two meta-analyses of the power of social cues in human-robot interaction. *International Journal of Social Robotics,*  [PDF](publications/Xu et al. 2023 Meta-Analyses.pdf)
 
 Xu, K., Chen, X., & Huang, L. (2022). Deep mind in social responses to technologies: A new approach to explaining the Computers are Social Actors phenomena. *Computers in Human Behavior, 134,* 107321. [PDF](publications/Xu et al. 2022 Deep mind in social responses.pdf)
 

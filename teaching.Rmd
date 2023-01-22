@@ -4,6 +4,8 @@ title: "Independent Teaching Experiences"
 
 **University of Florida (2019-present):**
 
+ - Spring 2023: MMC 6936 Computer-Mediated Communication (Graduate level)
+ - Spring 2023: RTV 4930 Media User Experience 
  - Fall 2022: MMC 6936 Human-Machine Communication (Graduate level)
  - Fall 2022: RTV 4930 Media User Experience 
  - Spring 2022: MMC 6936 Computer-Mediated Communication (Graduate level) [reading list](Files/CMC readings.pdf)
