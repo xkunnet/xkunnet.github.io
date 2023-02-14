@@ -76,6 +76,8 @@ Xu, K., Lin, M., & Haridakis, P. (2015). Being addicted to Chinese Twitter: Expl
 
 <font color="green">**Book Chapters:**</font>
 
+Xu, K., Liu, F., Chen, X., & Lombard, M. (in press). The Media are Social Actors paradigm and beyond: Theory, evidence, and future research. In S. Nah (Ed.), *Research handbook on artificial intelligence and communication.* Edward Elgar. 
+
 Xu, K., & Jeong, D. (in press). Social presence. In A. Guzman, R. McEwen, & S. Jones (Eds.), *The handbook of human-machine communication.* Sage. 
 
 Lombard, M., Lee, S., Sun, W., Xu, K., & Yang, H. (2017). Presence theory. In P. Roessler, C. Hoffner, & L. Van-Zoonen (Eds.), *International encyclopedia of media effects,* pp. 1-13. Wiley-Blackwell. [PDF](publications/Lombard et al. presence theory.pdf)
