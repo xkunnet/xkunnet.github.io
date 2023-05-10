@@ -3,7 +3,7 @@ title: "Publications"
 output: html_document
 ---
 
-<font color="red">**Latest update: 01/20/2023.**</font>
+<font color="red">**Latest update: 04/01/2023.**</font>
 
 &nbsp;
 
@@ -12,19 +12,30 @@ output: html_document
 
 Xu, K. (2023). A mini imitation game: How individuals model social robots via behavioral outcomes and social roles. *Telematics & Informatics, 78,* 101950. [PDF](publications/Xu 2023 mini imitation game.pdf)
 
+
 Xu, K., Chen, M., & You, L. (2023). The hitchhiker's guide to a credible and socially present robot: Two meta-analyses of the power of social cues in human-robot interaction. *International Journal of Social Robotics,*  [PDF](publications/Xu et al. 2023 Meta-Analyses.pdf)
 
-Xu, K., Chen, X., & Huang, L. (2022). Deep mind in social responses to technologies: A new approach to explaining the Computers are Social Actors phenomena. *Computers in Human Behavior, 134,* 107321. [PDF](publications/Xu et al. 2022 Deep mind in social responses.pdf)
 
 Xu, K., Chan-Olmsted, S., & Liu, F. (2022). Smart speakers require smart management: Two routes from user gratifications to privacy settings. *International Journal of Communication, 16,* 192-214. [PDF](publications/Xu et al. 2022 Smartspeakers.pdf)
 
+
+Xu, K., Chen, X., & Huang, L. (2022). Deep mind in social responses to technologies: A new approach to explaining the Computers are Social Actors phenomena. *Computers in Human Behavior, 134,* 107321. [PDF](publications/Xu et al. 2022 Deep mind in social responses.pdf)
+
+
+Kim, J., Merrill, K., Xu, K., & Kelly, S. (2022). Perceived credibility of an AI instructor in online education: The role of social presence and voice features. *Computers in Human Behavior, 136,* 107383. [PDF](publications/KKim et al. 2022 Perceived credibility of an AI instructor.pdf)
+
+
+Kim, J., Merrill, K., Xu, K., & Sellnow, D. (2022). Embracing AI-based education: Perceived social presence of human teachers and expectations about machine teachers in online education. *Human-Machine Communication, 4,* 169-184. [PDF](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1084&context=hmc#page=169) 
+
+
 Kim, J., Xu, K., Merrill, K. (2022). Man vs machine: Human responses to an AI newscaster and the role of social presence. *The Social Science Journal.* [PDF](publications/Kim et al 2022 Man vs machine.pdf)
 
-Kim, J., Merrill, K., Xu, K., & Sellnow, D. (accepted). Embracing AI-based education: Perceived social presence of human teachers and expectations about machine teachers in online education. *Human-Machine Communication, 4,* 169-184. [PDF](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1084&context=hmc#page=169) 
 
 Kim, J., Merrill, K., Xu, K., & Sellnow, D. (2021). I like my relational machine teacher: An AI instructor’s communication styles and social presence in online education. *International Journal of Human-Computer Interaction.* [PDF](publications/Kim et al. 2021 I Like My Relational Machine Teacher An AI Instructor s Communication Styles and Social Presence in Online Education.pdf)
 
+
 Lombard, M., & Xu, K. (corresponding author) (2021). Social responses to media technologies: The Media are Social Actors paradigm. *Human-Machine Communication, 2,* 29-55. [PDF](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1030&context=hmc)
+
 
 Xu, K., Liu, F., Mou, Y., Zeng, J., & Schafer, M. (2020). Using machine learning to learn machines: A cross-cultural study of users’ responses to machine-generated art works. *Journal of Broadcasting and Electronic Media, 64,* 566-591. [PDF](publications/Xu et al. 2020 Using Machine Learning to Learn Machines A Cross Cultural Study of Users Responses to Machine Generated Artworks.pdf)
 
