@@ -16,6 +16,9 @@ Xu, K. (2023). A mini imitation game: How individuals model social robots via be
 Xu, K., Chen, M., & You, L. (2023). The hitchhiker's guide to a credible and socially present robot: Two meta-analyses of the power of social cues in human-robot interaction. *International Journal of Social Robotics,*  [PDF](publications/Xu et al. 2023 Meta-Analyses.pdf)
 
 
+Liu, W., Xu, K., & Yao, M. (2023). Can you tell me about yourself? The impacts of chatbot names and communication contexts on users’ willingness to self-disclose information in human-machine conversations. *Communication Research Reports, 40*(3), 122-133. [PDF](publications/Liu et al. 2023.pdf)  
+
+
 Xu, K., Chan-Olmsted, S., & Liu, F. (2022). Smart speakers require smart management: Two routes from user gratifications to privacy settings. *International Journal of Communication, 16,* 192-214. [PDF](publications/Xu et al. 2022 Smartspeakers.pdf)
 
 
@@ -89,7 +92,7 @@ Xu, K., Lin, M., & Haridakis, P. (2015). Being addicted to Chinese Twitter: Expl
 
 Xu, K., Liu, F., Chen, X., & Lombard, M. (in press). The Media are Social Actors paradigm and beyond: Theory, evidence, and future research. In S. Nah (Ed.), *Research handbook on artificial intelligence and communication.* Edward Elgar. 
 
-Xu, K., & Jeong, D. (in press). Social presence. In A. Guzman, R. McEwen, & S. Jones (Eds.), *The handbook of human-machine communication.* Sage. 
+Xu, K., & Jeong, D. (2023). Social presence. In A. Guzman, R. McEwen, & S. Jones (Eds.), *The handbook of human-machine communication,* pp.287-293. Sage. 
 
 Lombard, M., Lee, S., Sun, W., Xu, K., & Yang, H. (2017). Presence theory. In P. Roessler, C. Hoffner, & L. Van-Zoonen (Eds.), *International encyclopedia of media effects,* pp. 1-13. Wiley-Blackwell. [PDF](publications/Lombard et al. presence theory.pdf)
 
