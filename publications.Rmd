@@ -16,7 +16,7 @@ Xu, K. (2023). A mini imitation game: How individuals model social robots via be
 Xu, K., Chen, M., & You, L. (2023). The hitchhiker's guide to a credible and socially present robot: Two meta-analyses of the power of social cues in human-robot interaction. *International Journal of Social Robotics,*  [PDF](publications/Xu et al. 2023 Meta-Analyses.pdf)
 
 
-Liu, W., Xu, K., & Yao, M. (2023). Can you tell me about yourself? The impacts of chatbot names and communication contexts on users’ willingness to self-disclose information in human-machine conversations. *Communication Research Reports, 40*(3), 122-133. [PDF](publications/Liu et al. 2023.pdf)  
+Liu, W., Xu, K., & Yao, M. (2023). Can you tell me about yourself? The impacts of chatbot names and communication contexts on users’ willingness to self-disclose information in human-machine conversations. *Communication Research Reports, 40*, 122-133. [PDF](publications/Liu et al. 2023.pdf)  
 
 
 Xu, K., Chan-Olmsted, S., & Liu, F. (2022). Smart speakers require smart management: Two routes from user gratifications to privacy settings. *International Journal of Communication, 16,* 192-214. [PDF](publications/Xu et al. 2022 Smartspeakers.pdf)
