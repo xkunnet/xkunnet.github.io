@@ -2,4 +2,4 @@
 title: "CV"
 ---
 
-Here is my [CV](Files/Overleaf CV 0813.pdf). Latest update: 08/01/2023
+Here is my [CV](Files/LTX CV.pdf)). Latest update: 08/01/2023
