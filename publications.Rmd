@@ -3,7 +3,7 @@ title: "Publications"
 output: html_document
 ---
 
-<font color="red">**Latest update: 07/01/2023.**</font>
+<font color="red">**Latest update: 08/01/2023.**</font>
 
 &nbsp;
 
@@ -13,10 +13,10 @@ output: html_document
 Xu, K. (2023). A mini imitation game: How individuals model social robots via behavioral outcomes and social roles. *Telematics & Informatics, 78,* 101950. [PDF](publications/Xu 2023 mini imitation game.pdf)
 
 
-Xu, K., Chen, M., & You, L. (2023). The hitchhiker's guide to a credible and socially present robot: Two meta-analyses of the power of social cues in human-robot interaction. *International Journal of Social Robotics,*  [PDF](publications/Xu et al. 2023 Meta-Analyses.pdf)
+Xu, K., Chen, M., & You, L. (2023). The hitchhiker's guide to a credible and socially present robot: Two meta-analyses of the power of social cues in human-robot interaction. *International Journal of Social Robotics.*  [PDF](publications/Xu et al. 2023 Meta-Analyses.pdf)
 
 
-Kim, J., Merrill, K., Xu, K., & Collins, C. (accepted). My health advisor is a robot: Understanding intentions to adopt a robotic health advisor. *International Journal of Human-Computer Interaction.*
+Kim, J., Merrill, K., Xu, K., & Collins, C. (2023). My health advisor is a robot: Understanding intentions to adopt a robotic health advisor. *International Journal of Human-Computer Interaction.* [PDF](publications/Kim et al. 2023 My Health Advisor is a Robot Understanding Intentions to Adopt a Robotic Health Advisor.pdf)
 
 Liu, W., Xu, K., & Yao, M. (2023). Can you tell me about yourself? The impacts of chatbot names and communication contexts on users’ willingness to self-disclose information in human-machine conversations. *Communication Research Reports, 40*, 122-133. [PDF](publications/Liu et al. 2023.pdf)  
 
