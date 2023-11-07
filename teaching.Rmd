@@ -44,7 +44,7 @@ title: "Independent Teaching Experiences"
 **Doctoral committees**
 
 - Co-chair, Fanjue Liu, UFCJC
-- Co-chair, Xiaobei Chen, UFCJC
+- Chair, Xiaobei Chen, UFCJC
 - Chair, Jiayue Li, UFCJC
 - Member, Mustafa Ozkan Yerebakan, Department of Industrial and Systems Engineering, UF
 - Member, Andrew Maxim, Department of Computer and Information Science and Engineering, UF
@@ -55,7 +55,7 @@ title: "Independent Teaching Experiences"
 
 **Master's committees**
 
-- Chair, Yunxiao Chen, UFCJC
+- Chair, Yunxiao Chen, UFCJC, graduated 2023
 - Chair, Loren Ruffin, UFCJC, graduated 2023
 - Member, Junyi Wu, UFCJC, graduated 2021
 - Member, Nam Gwiwon, UFCJC, graduated 2023
