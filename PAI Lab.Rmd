@@ -1,8 +1,8 @@
 ---
 title: "PAI Lab"
 output:
-  html_document:
-    df_print: paged
+  pdf_document: default
+  html_document: default
 ---
 
 
@@ -20,3 +20,28 @@ We conduct research at the University of Florida, with the support of the techno
 [Meta Quest Pro](https://www.meta.com/quest/quest-pro/) 
 [UBTech Robot Alpha](https://www.youtube.com/watch?v=7Brb9k1zIso&t=10s)
 [Robot Eilik](https://energizelab.com/)
+
+
+Below is the information of our lab group. 
+
+Fanjue Liu
+
+Fanjue Liu is a doctoral student at the the University of Florida. Her research investigates how people perceive and interact socially with emerging technologies such as virtual humans. Specifically, she investigates how people use different psychological patterns to interact with virtual influencers, how the emergence of virtual influencers changes the dynamics of influencer marketing, and whether virtual influencers can be considered a viable substitute for human influencers.
+
+Xiaobei Chen 
+
+Xiaobei Chen is a doctoral student at the College of Journalism and Communications at the University of Florida. Her research focuses on using emerging technologies to promote health equity and to conduct communication skill training in healthcare. 
+
+Jiayue Li
+
+
+
+Yunxiao Chen 
+
+
+
+
+Loren Ruffin
+
+Loren Ruffin was a Professional Master's student in the CJC and completed an M.A. in Mass Communication. Prior to attending UF, she received a B.S. in Communication, with a concentration in Journalism, from East Carolina University. Her study interests included human-machine communication, digital user experiences, and diversity, equity, and inclusion in digital products. As part of her capstone project, she designed and programmed a virtual reality vocabulary game focused on accessibility specifically for deaf and hard-of-hearing users. Post-graduation she is currently a content designer for Uber's Safety UX team, helping to design experiences that aim to keep earners and consumers safe on the app.
+
