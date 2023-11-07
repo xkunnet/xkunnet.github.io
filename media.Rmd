@@ -1,7 +1,12 @@
 ---
 title: "Media Coverage"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
+
+
+- How to build a trustworthy robot. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/how-to-build-a-trustworthy-robot-bed1de61cd1f). October 2, 2023
 
 - The psychological mechanisms behind users’ social response to emerging technologies. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/the-psychological-mechanisms-behind-users-social-response-to-emerging-technologies-5e3fd54ca5f7). May 20, 2022
 
