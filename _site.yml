@@ -12,7 +12,7 @@ navbar:
     - text:  "Teaching"
       href: teaching.html
     - text: "PAI Lab"
-      href: PAI Lab.html
+      href: PAILab.html
     - text: "Media"
       href: media.html
     - text:  "CV"

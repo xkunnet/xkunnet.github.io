@@ -1,9 +1,9 @@
 ---
 title: "Media Coverage"
-output:
-  html_document: default
-  pdf_document: default
+output: html_document
+
 ---
+
 
 
 - How to build a trustworthy robot. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/how-to-build-a-trustworthy-robot-bed1de61cd1f). October 2, 2023
