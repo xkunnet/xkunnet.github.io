@@ -9,10 +9,10 @@ navbar:
       href: research.html
     - text:  "Publications"
       href: publications.html
-    - text:  "Teaching"
-      href: teaching.html
     - text: "PAI Lab"
       href: PAILab.html
+    - text:  "Teaching"
+      href: teaching.html
     - text: "Media"
       href: media.html
     - text:  "CV"
