@@ -6,6 +6,8 @@ title: "Independent Teaching Experiences"
 
 **University of Florida (2019-present):**
 
+ - Spring 2024: RTV 4930 Media User Experience
+ - Spring 2024: MMC 6936 Computer-Mediated Communication (Graduate level)
  - Fall 2023: MMC 6936 Human-Machine Communication (Graduate level)
  - Fall 2023: RTV 4930 Media User Experience 
  - Spring 2023: MMC 6936 Computer-Mediated Communication (Graduate level)
@@ -48,10 +50,11 @@ title: "Independent Teaching Experiences"
 - Co-chair, Fanjue Liu, UFCJC
 - Chair, Xiaobei Chen, UFCJC
 - Chair, Jiayue Li, UFCJC
+- Member, Benjamin Vollmer, UFCJC
 - Member, Yeonseo Jo, Department of Tourism, Hospitality, and Event Management, UF
 - Member, Andrew Maxim, Department of Computer and Information Science and Engineering, UF
-- Member, Mustafa Ozkan Yerebakan, Department of Industrial and Systems Engineering, UF,graduated 2024
-- Member, Weizi Liu, Informatics/Communication and Media, University of Illinois Urbana-Champaign, graduated 2024
+- Member, Mustafa Ozkan Yerebakan, Department of Industrial and Systems Engineering, UF, graduated 2024
+- Member, Weizi Liu, School of Information Sciences, University of Illinois Urbana-Champaign, graduated 2024
 - Member, Heidi Makady, UFCJC, graduated 2023
 - Member, Yoo Jin Chung, UFCJC, graduated 2022
 - Member, Larissa Neuburger, Department of Tourism, Hospitality, and Event Management, UF, graduated 2021
