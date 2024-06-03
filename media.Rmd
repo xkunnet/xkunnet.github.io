@@ -4,7 +4,7 @@ output: html_document
 
 ---
 
-
+- You, we, and I, robot: How social cognitive theory explains how humans learn from machines. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/you-we-and-i-robot-how-social-cognitive-theory-explains-how-humans-learn-from-machines-0e18f0305246). June, 2, 2024
 
 - How to build a trustworthy robot. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/how-to-build-a-trustworthy-robot-bed1de61cd1f). October 2, 2023
 

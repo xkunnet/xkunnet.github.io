@@ -2,4 +2,4 @@
 title: "CV"
 ---
 
-Here is my [CV](Files/Kun CV LTX.pdf). Latest update: 04/15/2024
+Here is my [CV](Files/Kun CV LTX.pdf). Latest update: 06/01/2024

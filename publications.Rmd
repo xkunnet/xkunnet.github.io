@@ -3,18 +3,24 @@ title: "Publications"
 output: html_document
 ---
 
-<font color="red">**Latest update: 08/01/2023.**</font>
+<font color="red">**Latest update: 06/01/2024.**</font>
 
 &nbsp;
 
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
 
 
+Xu, K., Chen, X., Liu, F., & Huang, L. (2024). What did you hear and what did you see? Understanding the transparency of facial recognition and speech recognition systems during human-robot interaction. *New Media & Society.* Online First. [PDF](publications/xu-et-al-2024-what-did-you-hear-and-what-did-you-see-understanding-the-transparency-of-facial-recognition-and-speech.pdf) 
+
+
+
 Xu, K. (2023). A mini imitation game: How individuals model social robots via behavioral outcomes and social roles. *Telematics & Informatics, 78,* 101950. [PDF](publications/Xu 2023 mini imitation game.pdf)
 
+Kim, J., Kelly, S., & Xu, K. (2024). Understanding the influence of student expectations of instructor immediate behaviors on AI-based education: The moderating role of social presence of AI instructors. *Communication Quarterly.*
 
 Xu, K., Chen, M., & You, L. (2023). The hitchhiker's guide to a credible and socially present robot: Two meta-analyses of the power of social cues in human-robot interaction. *International Journal of Social Robotics.*  [PDF](publications/Xu et al. 2023 Meta-Analyses.pdf)
 
+Kim, J., Merrill, K., Jin, X., Collins, C., & Xu, K. (2023). Trust, perceived usefulness, and intentions to adopt robotic health advisors for physical and relational health issues. *The Social Science Journal.* [PDF](publications/Kim et al 2023 Trust  perceived usefulness  and intentions to adopt robotic health advisors for physical and relational health issues.pdf) 
 
 Kim, J., Merrill, K., Xu, K., & Collins, C. (2023). My health advisor is a robot: Understanding intentions to adopt a robotic health advisor. *International Journal of Human-Computer Interaction.* [PDF](publications/Kim et al. 2023 My Health Advisor is a Robot Understanding Intentions to Adopt a Robotic Health Advisor.pdf)
 
