@@ -98,8 +98,9 @@ Xu, K., Lin, M., & Haridakis, P. (2015). Being addicted to Chinese Twitter: Expl
 
 <font color="green">**Book Chapters:**</font>
 
+Lombard, M., Xu, K., Melissa, S. (in press). Future presence: Living with humanlike robots. In A. Edwards & L. Fortunati (Eds.), *De Gruyter handbook of robots in society and culture.* De Gruyter: Berlin.
 
-Xu, K., Liu, F., Chen, X., & Lombard, M. (in press). The Media are Social Actors paradigm and beyond: Theory, evidence, and future research. In S. Nah (Ed.), *Research handbook on artificial intelligence and communication.* Edward Elgar. 
+Xu, K., Liu, F., Chen, X., & Lombard, M. (2023). The Media are Social Actors paradigm and beyond: Theory, evidence, and future research. In S. Nah (Ed.), *Research handbook on artificial intelligence and communication,* pp. 337-354. Edward Elgar. 
 
 Xu, K., & Jeong, D. (2023). Social presence. In A. Guzman, R. McEwen, & S. Jones (Eds.), *The handbook of human-machine communication,* pp.287-293. Sage. 
 
