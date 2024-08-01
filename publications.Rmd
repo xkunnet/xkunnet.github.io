@@ -3,11 +3,13 @@ title: "Publications"
 output: html_document
 ---
 
-<font color="red">**Latest update: 06/01/2024.**</font>
+<font color="red">**Latest update: 08/01/2024.**</font>
 
 &nbsp;
 
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
+
+Xu, K., & Shi, J. (2024). Visioning a two-level human-machine communication framework: Initiating conversations between explainable AI and communication. *Communication Theory.* Online First [PDF](publications/Xu & Shi 2024 XAI & communication.pdf)
 
 
 Xu, K., Chen, X., Liu, F., & Huang, L. (2024). What did you hear and what did you see? Understanding the transparency of facial recognition and speech recognition systems during human-robot interaction. *New Media & Society.* Online First. [PDF](publications/xu-et-al-2024-what-did-you-hear-and-what-did-you-see-understanding-the-transparency-of-facial-recognition-and-speech.pdf) 
