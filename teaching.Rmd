@@ -1,10 +1,12 @@
 ---
 title: "Independent Teaching Experiences"
+output: pdf_document
 ---
 &nbsp;
 &nbsp;
 
 **University of Florida (2019-present):**
+
  - Fall 2024: MMC 6936 Human-Machine Communication (Graduate level)
  - Fall 2024: RTV 4930 Technology User Experience
  - Spring 2024: RTV 4930 Media User Experience
