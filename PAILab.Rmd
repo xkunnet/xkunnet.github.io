@@ -22,7 +22,7 @@ Revolving around both the science and the methods of artificial intelligence, ou
 \
 \
 Graduate students at the PAI Lab combine technology research with a variety of topics and contexts, including popular culture, globalization, public health, semiotics, and big data. Our lab members are:
-
+<br>
 
 [Fanjue Liu](https://www.fanjueliu.com/) (graduated Fall 2024)
 
@@ -32,6 +32,7 @@ Graduate students at the PAI Lab combine technology research with a variety of t
 
 Fanjue Liu was a doctoral student at the University of Florida. Her research investigates how people perceive and interact socially with emerging technologies such as virtual humans. Specifically, she investigates how people use different psychological patterns to interact with virtual influencers, how the emergence of virtual influencers changes the dynamics of influencer marketing, and whether virtual influencers can be considered a viable substitute for human influencers.\
 
+<br>
 <br>
 <br>
 <br>
@@ -47,7 +48,8 @@ Xiaobei Chen is a current PhD/MPH student with concentrations in health communic
 <br>
 <br>
 <br>
-[Lynn Li](https://www.jou.ufl.edu/staff/jiayue-lynn-li/)
+<br>
+[Lynn Jiayue Li](https://www.jou.ufl.edu/staff/jiayue-lynn-li/)
 <br>
 <img src="images/jiayue.JPG" alt="Jiayue" style="width: 200px; float: left; padding: 20px;"/>
 
@@ -56,9 +58,9 @@ Jiayue Lynn Li is a PhD student with a background in media, cultural, and commun
 <br>
 <br>
 <br>
-<br>
 
 [Yunxiao Chen (Caitlyn)](https://www.linkedin.com/in/yunxiao-caitlyn-chen-133413178/) (graduated December, 2023; currently Ph.D. student at Boston University)
+<br>
 <br>
 
 <img src="images/yunxiao.JPG" alt="Yunxiao" style="width: 200px; float: left; padding: 20px;"/>
