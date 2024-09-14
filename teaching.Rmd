@@ -50,9 +50,9 @@ output: pdf_document
 
 **Doctoral committees**
 
-- Co-chair, Fanjue Liu, UFCJC
 - Chair, Xiaobei Chen, UFCJC
 - Chair, Jiayue Li, UFCJC
+- Co-chair, Fanjue Liu, UFCJC, graduated 2024
 - Member, Benjamin Vollmer, UFCJC
 - Member, Yeonseo Jo, Department of Tourism, Hospitality, and Event Management, UF
 - Member, Andrew Maxim, Department of Computer and Information Science and Engineering, UF
