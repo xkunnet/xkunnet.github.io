@@ -7,8 +7,6 @@ output:
 
 <font color="red">Latest update: 08/01/2024.</font>
 
-&nbsp;
-
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
 
 Xu, K., & Shi, J. (2024). Visioning a two-level human-machine communication framework: Initiating conversations between explainable AI and communication. *Communication Theory.* Online First [PDF](publications/Xu & Shi 2024 XAI & communication.pdf)
