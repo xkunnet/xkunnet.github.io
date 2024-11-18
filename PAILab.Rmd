@@ -13,7 +13,7 @@ output:
 
 Recently, I have been named the director of both the Media Effects and Technology Lab (METL) and UFCJC Research Lab. I am honored to resume the convention and build new directions for the labs. 
 
-&nbsp;
+<br>
 **About PAI Lab:**
 
 Inspired and guided by a Blue Sky workshop at the 2023 annual conference of the International Communication Association, where I had the opportunity to moderate a panel on which esteemed scholars like [Autumn Edwards](https://wmich.edu/communication/directory/edwards), [Sun Joo (Grace) Ahn](https://grady.uga.edu/faculty/sun-joo-grace-ahn/), [Tony Liao](https://dot.egr.uh.edu/departments/ilt/people/faculty/liao-tony), [Jih-Hsuan Tammy Lin](https://drtammylin.com/), and [Matthew Lombard](https://klein.temple.edu/directory/matthew-lombard-lombard) shared their invaluable experience of founding and managing research groups and spaces, I began to develop the <font color="green">Presence and Artificial Intelligence (PAI) Lab</font> in July 2023. Echoing the pronunciation and significance of “<font color="green">***π***</font>”, the PAI Lab stands for its commitment to exploring infinite possibilities for non-recurring emerging technology research.
