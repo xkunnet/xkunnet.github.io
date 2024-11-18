@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.14)  15 SEP 2024 14:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.14)  17 NOV 2024 19:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -410,12 +410,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.87 ...n and significance of ``\textbf{\emph{π}}
+l.97 ...n and significance of ``\textbf{\emph{π}}
                                                   '', the PAI Lab 
 Here is how much of TeX's memory you used:
  10288 strings out of 475539
  158933 string characters out of 5776665
- 536989 words of memory out of 5000000
+ 537989 words of memory out of 5000000
  32795 multiletter control sequences out of 15000+600000
  586599 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191

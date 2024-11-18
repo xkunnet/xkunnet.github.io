@@ -1,5 +1,6 @@
 ---
 title: "Research Areas"
+output: pdf_document
 ---
 
 &nbsp;

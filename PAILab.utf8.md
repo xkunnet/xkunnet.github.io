@@ -1,8 +1,8 @@
 ---
 title: "Presence and Artificial Intelligence (PAI) Lab"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 
