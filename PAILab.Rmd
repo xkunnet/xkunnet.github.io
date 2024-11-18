@@ -9,9 +9,9 @@ output:
 
 &nbsp;
 
-<font color="green">Latest update: 11/10/2024.</font>
+<font color="green">An update: 11/10/2024.</font>
 
-Recently, I have been named the director of both the Media Effects and Technology Lab (METL) and UFCJC Research Lab. I am honored to resume the convention and build new directions for the labs. 
+Recently, I have been named the director of both the Media Effects and Technology Lab (METL) and UFCJC Research Lab. I am honored to resume the convention and help build new directions for the labs. 
 
 <br>
 <font color="green">**About PAI Lab:**</font>
@@ -21,7 +21,7 @@ Inspired and guided by a Blue Sky workshop at the 2023 annual conference of the 
 This PAI Lab aims at conducting research on users’ relationships with a range of presence-evoking technologies, including social robots, virtual humans, chatbots, virtual influencers, smartwatches, memes, virtual reality, and augmented reality. The lab also delves into topics such as explainable AI (XAI), Science and Technology Studies (STS), and ubiquitous computing. 
 
 Revolving around both the science and the methods of artificial intelligence, our lab seeks to conduct theoretically robust and methodologically innovative research, with the support of the technologies available in the lab space, including:\
-*Aldebaran Robot NAO*\
+*Aldebaran Robot NAO V6*\
 *Double II Telepresence robot*\
 *Meta Quest Pro*\
 *UBTech Robot Alpha*\
@@ -79,7 +79,7 @@ Yunxiao Chen (Caitlyn) was a Master’s student and a teaching & research assist
 <br>
 <br>
 
-[Loren Ruffin](https://www.linkedin.com/in/loren-ruffin/) (graduated May, 2023)
+[Loren Ruffin](https://www.linkedin.com/in/loren-ruffin/) (graduated May, 2023; currently content designer at Uber)
 <br>
 <img src="images/LorenRuffin_CJCHeadshot.JPG" alt="Loren" style="width: 200px; float: left; padding: 20px;"/>
 
