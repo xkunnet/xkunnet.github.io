@@ -6,6 +6,7 @@ output:
   html_document: default
 ---
 
+#notcie the latex_engine has been changed to xelatx
 
 &nbsp;
 
