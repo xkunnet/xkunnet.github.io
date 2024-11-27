@@ -6,8 +6,6 @@ output:
   html_document: default
 ---
 
-%notcie the latex_engine has been changed to xelatx
-
 &nbsp;
 
 <font color="green">An update: Fall 2024.</font>
