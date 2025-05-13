@@ -11,9 +11,9 @@ output:
 
 Liao, T., Xu, K., & Spencer, B. (2025). Is it time for augmented reality theory? Identifying challenges and pathways for theoretical development. *Journal of Media Psychology, 37.* [PDF](publications/Liao et al. 2025 JMP.pdf)
 
-Shi, J., Xia, X., Zhuang, H., & Li, Z., & Xu, K. (2025). Empowering individuals to adopt artificial intelligence for health information seeking: A latent profile analysis among users in Hong Kong. *Social Science & Medicine.* [PDF](publications/Shi et al. 2025 Social Science & Medicine.pdf)
+Shi, J., Xia, X., Zhuang, H., & Li, Z., & Xu, K. (2025). Empowering individuals to adopt artificial intelligence for health information seeking: A latent profile analysis among users in Hong Kong. *Social Science & Medicine, 375,* 118059. [PDF](publications/Shi et al. 2025 Social Science & Medicine.pdf)
 
-Xu, K., & Shi, J. (2024). Visioning a two-level human-machine communication framework: Initiating conversations between explainable AI and communication. *Communication Theory.* Online First [PDF](publications/Xu & Shi 2024 XAI & communication.pdf)
+Xu, K., & Shi, J. (2024). Visioning a two-level human-machine communication framework: Initiating conversations between explainable AI and communication. *Communication Theory, 34,* 216-229. [PDF](publications/Xu & Shi 2024 XAI & communication.pdf)
 
 
 Xu, K., Chen, X., Liu, F., & Huang, L. (2024). What did you hear and what did you see? Understanding the transparency of facial recognition and speech recognition systems during human-robot interaction. *New Media & Society.* Online First. [PDF](publications/xu-et-al-2024-what-did-you-hear-and-what-did-you-see-understanding-the-transparency-of-facial-recognition-and-speech.pdf) 
