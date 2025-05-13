@@ -7,6 +7,7 @@ output: pdf_document
 
 **University of Florida (2019-present):**
 
+ - Spring 2025: RTV 4930 Media User Experience
  - Fall 2024: MMC 6936 Human-Machine Communication (Graduate level) [reading list](Files/HMC reading list 2024.pdf)
  - Fall 2024: RTV 4930 Technology User Experience
  - Spring 2024: RTV 4930 Media User Experience

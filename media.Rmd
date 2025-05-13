@@ -4,6 +4,10 @@ output: html_document
 
 ---
 
+- Can AI speak our language: Exploring human-machine communication. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/can-ai-speak-our-language-exploring-human-machine-communication-baaf83f77e5a). Jan 30, 2025. 
+
+- Decoding the digital dialogue: A two-step framework for human-AI interaction. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/decoding-the-digital-dialogue-a-two-step-framework-for-human-ai-interaction-c7a0178ccde4). September 18, 2024
+
 - You, we, and I, robot: How social cognitive theory explains how humans learn from machines. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/you-we-and-i-robot-how-social-cognitive-theory-explains-how-humans-learn-from-machines-0e18f0305246). June, 2, 2024
 
 - How to build a trustworthy robot. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/how-to-build-a-trustworthy-robot-bed1de61cd1f). October 2, 2023
