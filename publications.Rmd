@@ -1,24 +1,28 @@
 ---
 title: "Publications"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
-<font color="red">Latest update: 08/01/2024.</font>
+<font color="red">Latest update: 03/31/2025.</font>
 
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
+
+Liao, T., Xu, K., & Spencer, B. (2025). Is it time for augmented reality theory? Identifying challenges and pathways for theoretical development. *Journal of Media Psychology, 37.* [PDF](publications/Liao et al. 2025 JMP.pdf)
+
+Shi, J., Xia, X., Zhuang, H., & Li, Z., & Xu, K. (2025). Empowering individuals to adopt artificial intelligence for health information seeking: A latent profile analysis among users in Hong Kong. *Social Science & Medicine.* [PDF](publications/Shi et al. 2025 Social Science & Medicine.pdf)
 
 Xu, K., & Shi, J. (2024). Visioning a two-level human-machine communication framework: Initiating conversations between explainable AI and communication. *Communication Theory.* Online First [PDF](publications/Xu & Shi 2024 XAI & communication.pdf)
 
 
 Xu, K., Chen, X., Liu, F., & Huang, L. (2024). What did you hear and what did you see? Understanding the transparency of facial recognition and speech recognition systems during human-robot interaction. *New Media & Society.* Online First. [PDF](publications/xu-et-al-2024-what-did-you-hear-and-what-did-you-see-understanding-the-transparency-of-facial-recognition-and-speech.pdf) 
 
+Kim, J., Jin, X., Xu, K., Chen, X., & Yang, H. (2024). What do people say about Replika, an AI chatot, on social media? Investigating diverse perspectives on the implications of Replika through a topic modeling analysis. *The Social Science Journal.* [pdf](publications/Kim et al 2024 What do people say about Replika  an AI chatbot  on social media  Investigating diverse perspectives on the implications of Replika through a topic mo.pdf)
 
+Kim, J., Kelly, S., & Xu, K. (2024). Understanding the influence of student expectations of instructor immediate behaviors on AI-based education: The moderating role of social presence of AI instructors. *Communication Quarterly, 72,* 421-438. [pdf](publications/Kim et al 2024 Understanding the influence of student expectations of instructor immediate behaviors on AI-based education  the moderating role of social presence of.pdf) 
 
 Xu, K. (2023). A mini imitation game: How individuals model social robots via behavioral outcomes and social roles. *Telematics & Informatics, 78,* 101950. [PDF](publications/Xu 2023 mini imitation game.pdf)
-
-Kim, J., Kelly, S., & Xu, K. (2024). Understanding the influence of student expectations of instructor immediate behaviors on AI-based education: The moderating role of social presence of AI instructors. *Communication Quarterly.*
 
 Xu, K., Chen, M., & You, L. (2023). The hitchhiker's guide to a credible and socially present robot: Two meta-analyses of the power of social cues in human-robot interaction. *International Journal of Social Robotics.*  [PDF](publications/Xu et al. 2023 Meta-Analyses.pdf)
 

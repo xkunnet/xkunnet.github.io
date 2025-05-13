@@ -8,10 +8,6 @@ output:
 
 &nbsp;
 
-<font color="green">An update: Fall 2024.</font>
-
-Recently, I have been named the director of the Media Effects and Technology Lab (METL) and UFCJC Research Lab. I will resume the convention and help build new directions for the labs. 
-
 <br>
 <font color="green">**About PAI Lab:**</font>
 
@@ -26,16 +22,17 @@ Revolving around both the science and the methods of artificial intelligence, ou
 *UBTech Robot Alpha*\
 *Robot Eilik*\
 *Shimmer3 GSR+ Unit*\
+*iMotions eye tracking device*\
 \
 \
-Graduate students at the PAI Lab combine technology research with a variety of topics and contexts, including popular culture, globalization, public health, semiotics, and big data. Our lab members are:
+Graduate students at the PAI Lab combine technology research with a variety of topics and contexts, including popular culture, public health, semiotics, and big data. Our lab members are:
 <br>
 
 [Fanjue Liu](https://www.fanjueliu.com/) (graduated Fall 2024)
 
 <img src="images/fanjue.JPG" alt="Fanjue" style="width: 200px; float: left; padding: 20px;"/>
 
-Fanjue Liu is an incoming asssitant professor in digital techonlogy and culture at Shanghai Jiao Tong University. She was a doctoral student at the University of Florida. Her research investigates how people perceive and interact socially with emerging technologies such as virtual humans. Specifically, she investigates how people use different psychological patterns to interact with virtual influencers, how the emergence of virtual influencers changes the dynamics of influencer marketing, and whether virtual influencers can be considered a viable substitute for human influencers.\
+Fanjue Liu is an asssitant professor in digital techonlogy and culture at Shanghai Jiao Tong University. She was a doctoral student at the University of Florida. Her research investigates how people perceive and interact socially with emerging technologies such as virtual humans. Specifically, she investigates how people use different psychological patterns to interact with virtual influencers, how the emergence of virtual influencers changes the dynamics of influencer marketing, and whether virtual influencers can be considered a viable substitute for human influencers.\
 
 <br>
 <br>
