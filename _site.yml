@@ -13,7 +13,7 @@ navbar:
       href: PAILab.html
     - text:  "Teaching"
       href: teaching.html
-    - text: "Media"
+    - text: "Media & Talks"
       href: media.html
     - text:  "CV"
       href: cv.html

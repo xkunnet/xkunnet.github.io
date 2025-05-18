@@ -1,29 +1,37 @@
 ---
-title: "Media Coverage"
+title: "Guest Talks & Media Coverage"
 output: html_document
 
 ---
 
+**External Guest Talks**
+
+- Michigan State University, Spring 2025
+- Boston University, Fall 2024
+- Hong Kong Baptist University, Fall 2024
+- University of Central Florida, Fall 2024
+- Fudan University, Summer 2024
+- Shanghai Jiao Tong University, Summer 2023
+- Beijing Normal University, Fall 2023
+- University of Southern California, Spring 2023
+- Peking University, Fall 2022
+- Peking University, Fall 2021
+- Hong Kong Baptist University, Fall 2021
+- Beijing Normal University, Fall 2020
+- University of California Los Angeles, Spring 2020
+
+**Media Coverage**
+
 - Can AI speak our language: Exploring human-machine communication. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/can-ai-speak-our-language-exploring-human-machine-communication-baaf83f77e5a). Jan 30, 2025. 
-
 - Decoding the digital dialogue: A two-step framework for human-AI interaction. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/decoding-the-digital-dialogue-a-two-step-framework-for-human-ai-interaction-c7a0178ccde4). September 18, 2024
-
 - You, we, and I, robot: How social cognitive theory explains how humans learn from machines. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/you-we-and-i-robot-how-social-cognitive-theory-explains-how-humans-learn-from-machines-0e18f0305246). June, 2, 2024
-
 - How to build a trustworthy robot. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/how-to-build-a-trustworthy-robot-bed1de61cd1f). October 2, 2023
-
 - The psychological mechanisms behind users’ social response to emerging technologies. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/the-psychological-mechanisms-behind-users-social-response-to-emerging-technologies-5e3fd54ca5f7). May 20, 2022
-
 - Man vs. machine: Human responses to AI. [Medium](https://medium.com/university-of-florida-college-of-journalism-and/man-vs-machine-human-responses-to-ai-7cc8d9c3251c). Feb 10, 2022
-
 - Smart speakers require smart management [Medium](https://medium.com/university-of-florida-college-of-journalism-and/smart-speakers-require-smart-management-b447160dd6b5). January 13, 2022
-
 - Language, Modality, and Mobile Media Use Experiences: Social Responses to Smartphone Cues in a Task-Oriented Context [Medium](https://medium.com/university-of-florida-college-of-journalism-and/language-modality-and-mobile-media-use-experiences-social-responses-to-smartphone-cues-in-a-7fa7e07376e6). May 4, 2021
-
 - Does the popularity of Clubhouse Mean the “Good Old Days” are Back? Authored on [Medium](https://medium.com/university-of-florida-college-of-journalism-and/does-the-popularity-of-clubhouse-mean-the-good-old-days-are-back-69a863a3918e). February 8, 2021
-
 - Explicating cues: A typology for understanding emerging technologies. Published on [Medium](https://medium.com/university-of-florida-college-of-journalism-and/explicating-cues-a-typology-for-understanding-emerging-media-technologies-c76509e428a8). January 14, 2020
-
 - First encounter with Robot Alpha: How individuals respond to social robot’s vocal cues and gestural cues. Published on [Medium](https://medium.com/university-of-florida-college-of-journalism-and/first-encounter-with-robot-alpha-how-individuals-respond-to-social-robots-vocal-cues-and-gestures-1395c8bb506d), September 7, 2019
 
 
