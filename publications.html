@@ -13,19 +13,27 @@
 
 <title>Publications</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
-<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -37,11 +45,6 @@
     </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -54,32 +57,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 
 
@@ -89,10 +68,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -109,40 +84,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -170,7 +121,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -182,7 +133,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -192,11 +143,28 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.parent().addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -208,13 +176,12 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -222,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -275,7 +235,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -345,7 +305,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -355,54 +315,214 @@ $(document).ready(function () {
 
 
 <p><font color="red">Latest update: 03/31/2025.</font></p>
-<p><font color="green"><strong>Peer-Reviewed Journal Articles:</strong></font></p>
-<p>Liao, T., Xu, K., &amp; Spencer, B. (2025). Is it time for augmented reality theory? Identifying challenges and pathways for theoretical development. <em>Journal of Media Psychology, 37.</em> <a href="publications/Liao%20et%20al.%202025%20JMP.pdf">PDF</a></p>
-<p>Shi, J., Xia, X., Zhuang, H., &amp; Li, Z., &amp; Xu, K. (2025). Empowering individuals to adopt artificial intelligence for health information seeking: A latent profile analysis among users in Hong Kong. <em>Social Science &amp; Medicine, 375,</em> 118059. <a href="publications/Shi%20et%20al.%202025%20Social%20Science%20&amp;%20Medicine.pdf">PDF</a></p>
-<p>Xu, K., &amp; Shi, J. (2024). Visioning a two-level human-machine communication framework: Initiating conversations between explainable AI and communication. <em>Communication Theory, 34,</em> 216-229. <a href="publications/Xu%20&amp;%20Shi%202024%20XAI%20&amp;%20communication.pdf">PDF</a></p>
-<p>Xu, K., Chen, X., Liu, F., &amp; Huang, L. (2024). What did you hear and what did you see? Understanding the transparency of facial recognition and speech recognition systems during human-robot interaction. <em>New Media &amp; Society.</em> Online First. <a href="publications/xu-et-al-2024-what-did-you-hear-and-what-did-you-see-understanding-the-transparency-of-facial-recognition-and-speech.pdf">PDF</a></p>
-<p>Kim, J., Jin, X., Xu, K., Chen, X., &amp; Yang, H. (2024). What do people say about Replika, an AI chatot, on social media? Investigating diverse perspectives on the implications of Replika through a topic modeling analysis. <em>The Social Science Journal.</em> <a href="publications/Kim%20et%20al%202024%20What%20do%20people%20say%20about%20Replika%20an%20AI%20chatbot%20on%20social%20media%20Investigating%20diverse%20perspectives%20on%20the%20implications%20of%20Replika%20through%20a%20topic%20mo.pdf">pdf</a></p>
-<p>Kim, J., Kelly, S., &amp; Xu, K. (2024). Understanding the influence of student expectations of instructor immediate behaviors on AI-based education: The moderating role of social presence of AI instructors. <em>Communication Quarterly, 72,</em> 421-438. <a href="publications/Kim%20et%20al%202024%20Understanding%20the%20influence%20of%20student%20expectations%20of%20instructor%20immediate%20behaviors%20on%20AI-based%20education%20the%20moderating%20role%20of%20social%20presence%20of.pdf">pdf</a></p>
-<p>Xu, K. (2023). A mini imitation game: How individuals model social robots via behavioral outcomes and social roles. <em>Telematics &amp; Informatics, 78,</em> 101950. <a href="publications/Xu%202023%20mini%20imitation%20game.pdf">PDF</a></p>
-<p>Xu, K., Chen, M., &amp; You, L. (2023). The hitchhiker’s guide to a credible and socially present robot: Two meta-analyses of the power of social cues in human-robot interaction. <em>International Journal of Social Robotics.</em> <a href="publications/Xu%20et%20al.%202023%20Meta-Analyses.pdf">PDF</a></p>
-<p>Kim, J., Merrill, K., Jin, X., Collins, C., &amp; Xu, K. (2023). Trust, perceived usefulness, and intentions to adopt robotic health advisors for physical and relational health issues. <em>The Social Science Journal.</em> <a href="publications/Kim%20et%20al%202023%20Trust%20perceived%20usefulness%20and%20intentions%20to%20adopt%20robotic%20health%20advisors%20for%20physical%20and%20relational%20health%20issues.pdf">PDF</a></p>
-<p>Kim, J., Merrill, K., Xu, K., &amp; Collins, C. (2023). My health advisor is a robot: Understanding intentions to adopt a robotic health advisor. <em>International Journal of Human-Computer Interaction.</em> <a href="publications/Kim%20et%20al.%202023%20My%20Health%20Advisor%20is%20a%20Robot%20Understanding%20Intentions%20to%20Adopt%20a%20Robotic%20Health%20Advisor.pdf">PDF</a></p>
-<p>Liu, W., Xu, K., &amp; Yao, M. (2023). Can you tell me about yourself? The impacts of chatbot names and communication contexts on users’ willingness to self-disclose information in human-machine conversations. <em>Communication Research Reports, 40</em>, 122-133. <a href="publications/Liu%20et%20al.%202023.pdf">PDF</a></p>
-<p>Xu, K., Chan-Olmsted, S., &amp; Liu, F. (2022). Smart speakers require smart management: Two routes from user gratifications to privacy settings. <em>International Journal of Communication, 16,</em> 192-214. <a href="publications/Xu%20et%20al.%202022%20Smartspeakers.pdf">PDF</a></p>
-<p>Xu, K., Chen, X., &amp; Huang, L. (2022). Deep mind in social responses to technologies: A new approach to explaining the Computers are Social Actors phenomena. <em>Computers in Human Behavior, 134,</em> 107321. <a href="publications/Xu%20et%20al.%202022%20Deep%20mind%20in%20social%20responses.pdf">PDF</a></p>
-<p>Kim, J., Merrill, K., Xu, K., &amp; Kelly, S. (2022). Perceived credibility of an AI instructor in online education: The role of social presence and voice features. <em>Computers in Human Behavior, 136,</em> 107383. <a href="publications/Kim%20et%20al.%202022%20Perceived%20credibility%20of%20an%20AI%20instructor.pdf">PDF</a></p>
-<p>Kim, J., Merrill, K., Xu, K., &amp; Sellnow, D. (2022). Embracing AI-based education: Perceived social presence of human teachers and expectations about machine teachers in online education. <em>Human-Machine Communication, 4,</em> 169-184. <a href="https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1084&amp;context=hmc#page=169">PDF</a></p>
-<p>Kim, J., Xu, K., Merrill, K. (2022). Man vs machine: Human responses to an AI newscaster and the role of social presence. <em>The Social Science Journal.</em> <a href="publications/Kim%20et%20al%202022%20Man%20vs%20machine.pdf">PDF</a></p>
-<p>Kim, J., Merrill, K., Xu, K., &amp; Sellnow, D. (2021). I like my relational machine teacher: An AI instructor’s communication styles and social presence in online education. <em>International Journal of Human-Computer Interaction.</em> <a href="publications/Kim%20et%20al.%202021%20I%20Like%20My%20Relational%20Machine%20Teacher%20An%20AI%20Instructor%20s%20Communication%20Styles%20and%20Social%20Presence%20in%20Online%20Education.pdf">PDF</a></p>
-<p>Lombard, M., &amp; Xu, K. (corresponding author) (2021). Social responses to media technologies: The Media are Social Actors paradigm. <em>Human-Machine Communication, 2,</em> 29-55. <a href="https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1030&amp;context=hmc">PDF</a></p>
-<p>Xu, K., Liu, F., Mou, Y., Wu, Y., Zeng, J., &amp; Schafer, M. (2020). Using machine learning to learn machines: A cross-cultural study of users’ responses to machine-generated art works. <em>Journal of Broadcasting and Electronic Media, 64,</em> 566-591. <a href="publications/Xu%20et%20al.%202020%20Using%20Machine%20Learning%20to%20Learn%20Machines%20A%20Cross%20Cultural%20Study%20of%20Users%20Responses%20to%20Machine%20Generated%20Artworks.pdf">PDF</a></p>
-<p>Xu, K. (2020). Language, modality, and mobile media use experiences: Social responses to smartphone cues in a task-oriented context. <em>Telematics and Informatics, 48,</em> 101344 <a href="publications/Xu%202020%20Mobile%20phone%20study.pdf">PDF</a></p>
-<p>Xu, K., &amp; Liao, T. (2020). Explicating cues: A typology for understanding emerging media technologies. <em>Journal of Computer-Mediated Communication, 25,</em> 32-43. <a href="publications/Xu%20&amp;%20Liao%20Explicating%20Cues%20JCMC.pdf">PDF</a>; <a href="publications/ICA%20paper%205.30%20Kun%20&amp;%20Tony.pdf">Long Version</a></p>
-<p>Kim, J., Merrill, K., Xu, K., &amp; Sellnow, D. (2020). My teacher is a machine: Understanding students’ perception of AI teaching assistants in online education. <em>International Journal of Human-Computer Interaction, 36,</em> 1902-1911. <a href="publications/Kim%20et%20al.%202020.pdf">PDF</a></p>
-<p>Liao, T., &amp; Xu, K. (2020). A process approach to understanding multiple open source innovation contests: Assessing the contest structures, execution, and participant responses in the Android Developer Challenges. <em>Information and Organization, 30.</em> <a href="publications/Liao%20&amp;%20Xu%20Android%20contest%20I&amp;O%20.pdf">PDF</a></p>
-<p>Liao, T., Yang, H., Lee, S., Xu, K., &amp; Bennett, S. (2020). Augmented criminality: How people process in-situ augmented reality crime information in relation to space/place. <em>Mobile Media &amp; Communication, 8,</em> 360-378. <a href="publications/liao%20et%20al.%20augmented%20reality.pdf">PDF</a></p>
-<p>Wu, Y., Mou, Y., Li, Z., &amp; Xu, K. (2020). Investigating American and Chinese subjects’ explicit and implicit perceptions of AI-generated artistic work. <em>Computers in Human Behavior, 104,</em> 106186. <a href="publications/Wu%20et%20al.%20(2020)%20Chinese%20American%20implicit%20and%20explicit.pdf">PDF</a></p>
-<p>Xu, K. (2019). First encounter with robot Alpha: How individual differences interact with vocal and kinetic cues in users’ social responses. <em>New Media &amp; Society, 21,</em> 2522-2547. <a href="publications/Xu%202019%20Robot%20alpha.pdf">PDF</a></p>
-<p>Mou, Y., Xu, K., &amp; Xia, K. (2019). Unpacking the black box: Examining the (de)gender categorization effect in human-machine communication. <em>Computers in Human Behavior, 90,</em> 380-387. <a href="publications/Mou%20Xu%20Xia%20gender%20decategorization%20effect.pdf">PDF</a></p>
-<p>Mou, Y., Shi, C., Shen, T., Xu, K. (2019). A systematic review of the personality of robot: Mapping its conceptualization, operationalization, contextualization, and effects. <em>International Journal of Human-Computer Interaction, 36</em>, 591-605. <a href="publications/Mou%20et%20al%202019%20A%20Systematic%20Review.pdf">PDF</a></p>
-<p>Xu, K. (2018). Painting Chinese mythology: Varying touches on the magazine covers of Time, The Economist, Der Spiegel, and China Today. <em>International Communication Gazette, 80,</em> 135-157. <a href="publications/Xu_Painting%20Chinese%20Methology.pdf">PDF</a></p>
-<p>Xu, K. (2018). Location speaks: Using GIS approach and Weibo check-in data to understand information communication in China. <em>China Media Research, 14,</em> 29-43. <a href="publications/Xu%20Location%20speaks.pdf">PDF</a></p>
-<p>Steiner, E., &amp; Xu, K. (2018). Binge-watching motivates change: How the uses and gratifications of streaming video viewers are challenging traditional audience research. <em>Convergence: The International Journal of Research into New Media Technologies, 26</em>(1), 82-101. <a href="publications/Steiner_Xu_bingewatching.pdf">PDF</a></p>
-<p>Xu, K., &amp; Lombard, M. (2017). Persuasive computing: Feeling peer pressure from multiple computer agents. <em>Computers in Human Behavior, 74,</em> 152-162. <a href="publications/Xu_Lombard_Persuasive%20computing.pdf">PDF</a></p>
-<p>Mou, Y. &amp; Xu, K. (2017). The media inequality: Comparing the initial human-human and human-AI social interactions. <em>Computers in Human Behavior, 72,</em> 432-440. <a href="publications/Yi%20Xu_Media%20Inequality.pdf">PDF</a></p>
-<p>Xu, K., Lin, M., &amp; Haridakis, P. (2015). Being addicted to Chinese Twitter: Exploring the roles of users’ expected outcomes and deficient self-regulation in social network service addiction. <em>China Media Research, 11</em>(2), 1-16. <a href="publications/Xu%20et%20al%20-Being_addicted_to_Chinese_Twit.PDF">PDF</a></p>
+<p><font color="green"><strong>Peer-Reviewed Journal
+Articles:</strong></font></p>
+<p>Liao, T., Xu, K., &amp; Spencer, B. (2025). Is it time for augmented
+reality theory? Identifying challenges and pathways for theoretical
+development. <em>Journal of Media Psychology, 37.</em> <a
+href="publications/Liao%20et%20al.%202025%20JMP.pdf">PDF</a></p>
+<p>Shi, J., Xia, X., Zhuang, H., &amp; Li, Z., &amp; Xu, K. (2025).
+Empowering individuals to adopt artificial intelligence for health
+information seeking: A latent profile analysis among users in Hong Kong.
+<em>Social Science &amp; Medicine, 375,</em> 118059. <a
+href="publications/Shi%20et%20al.%202025%20Social%20Science%20&amp;%20Medicine.pdf">PDF</a></p>
+<p>Xu, K., &amp; Shi, J. (2024). Visioning a two-level human-machine
+communication framework: Initiating conversations between explainable AI
+and communication. <em>Communication Theory, 34,</em> 216-229. <a
+href="publications/Xu%20&amp;%20Shi%202024%20XAI%20&amp;%20communication.pdf">PDF</a></p>
+<p>Xu, K., Chen, X., Liu, F., &amp; Huang, L. (2024). What did you hear
+and what did you see? Understanding the transparency of facial
+recognition and speech recognition systems during human-robot
+interaction. <em>New Media &amp; Society.</em> Online First. <a
+href="publications/xu-et-al-2024-what-did-you-hear-and-what-did-you-see-understanding-the-transparency-of-facial-recognition-and-speech.pdf">PDF</a></p>
+<p>Kim, J., Jin, X., Xu, K., Chen, X., &amp; Yang, H. (2024). What do
+people say about Replika, an AI chatot, on social media? Investigating
+diverse perspectives on the implications of Replika through a topic
+modeling analysis. <em>The Social Science Journal.</em> <a
+href="publications/Kim%20et%20al%202024%20What%20do%20people%20say%20about%20Replika%20an%20AI%20chatbot%20on%20social%20media%20Investigating%20diverse%20perspectives%20on%20the%20implications%20of%20Replika%20through%20a%20topic%20mo.pdf">pdf</a></p>
+<p>Kim, J., Kelly, S., &amp; Xu, K. (2024). Understanding the influence
+of student expectations of instructor immediate behaviors on AI-based
+education: The moderating role of social presence of AI instructors.
+<em>Communication Quarterly, 72,</em> 421-438. <a
+href="publications/Kim%20et%20al%202024%20Understanding%20the%20influence%20of%20student%20expectations%20of%20instructor%20immediate%20behaviors%20on%20AI-based%20education%20the%20moderating%20role%20of%20social%20presence%20of.pdf">pdf</a></p>
+<p>Xu, K. (2023). A mini imitation game: How individuals model social
+robots via behavioral outcomes and social roles. <em>Telematics &amp;
+Informatics, 78,</em> 101950. <a
+href="publications/Xu%202023%20mini%20imitation%20game.pdf">PDF</a></p>
+<p>Xu, K., Chen, M., &amp; You, L. (2023). The hitchhiker’s guide to a
+credible and socially present robot: Two meta-analyses of the power of
+social cues in human-robot interaction. <em>International Journal of
+Social Robotics.</em> <a
+href="publications/Xu%20et%20al.%202023%20Meta-Analyses.pdf">PDF</a></p>
+<p>Kim, J., Merrill, K., Jin, X., Collins, C., &amp; Xu, K. (2023).
+Trust, perceived usefulness, and intentions to adopt robotic health
+advisors for physical and relational health issues. <em>The Social
+Science Journal.</em> <a
+href="publications/Kim%20et%20al%202023%20Trust%20perceived%20usefulness%20and%20intentions%20to%20adopt%20robotic%20health%20advisors%20for%20physical%20and%20relational%20health%20issues.pdf">PDF</a></p>
+<p>Kim, J., Merrill, K., Xu, K., &amp; Collins, C. (2023). My health
+advisor is a robot: Understanding intentions to adopt a robotic health
+advisor. <em>International Journal of Human-Computer Interaction.</em>
+<a
+href="publications/Kim%20et%20al.%202023%20My%20Health%20Advisor%20is%20a%20Robot%20Understanding%20Intentions%20to%20Adopt%20a%20Robotic%20Health%20Advisor.pdf">PDF</a></p>
+<p>Liu, W., Xu, K., &amp; Yao, M. (2023). Can you tell me about
+yourself? The impacts of chatbot names and communication contexts on
+users’ willingness to self-disclose information in human-machine
+conversations. <em>Communication Research Reports, 40</em>, 122-133. <a
+href="publications/Liu%20et%20al.%202023.pdf">PDF</a></p>
+<p>Xu, K., Chan-Olmsted, S., &amp; Liu, F. (2022). Smart speakers
+require smart management: Two routes from user gratifications to privacy
+settings. <em>International Journal of Communication, 16,</em> 192-214.
+<a
+href="publications/Xu%20et%20al.%202022%20Smartspeakers.pdf">PDF</a></p>
+<p>Xu, K., Chen, X., &amp; Huang, L. (2022). Deep mind in social
+responses to technologies: A new approach to explaining the Computers
+are Social Actors phenomena. <em>Computers in Human Behavior, 134,</em>
+107321. <a
+href="publications/Xu%20et%20al.%202022%20Deep%20mind%20in%20social%20responses.pdf">PDF</a></p>
+<p>Kim, J., Merrill, K., Xu, K., &amp; Kelly, S. (2022). Perceived
+credibility of an AI instructor in online education: The role of social
+presence and voice features. <em>Computers in Human Behavior, 136,</em>
+107383. <a
+href="publications/Kim%20et%20al.%202022%20Perceived%20credibility%20of%20an%20AI%20instructor.pdf">PDF</a></p>
+<p>Kim, J., Merrill, K., Xu, K., &amp; Sellnow, D. (2022). Embracing
+AI-based education: Perceived social presence of human teachers and
+expectations about machine teachers in online education.
+<em>Human-Machine Communication, 4,</em> 169-184. <a
+href="https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1084&amp;context=hmc#page=169">PDF</a></p>
+<p>Kim, J., Xu, K., Merrill, K. (2022). Man vs machine: Human responses
+to an AI newscaster and the role of social presence. <em>The Social
+Science Journal.</em> <a
+href="publications/Kim%20et%20al%202022%20Man%20vs%20machine.pdf">PDF</a></p>
+<p>Kim, J., Merrill, K., Xu, K., &amp; Sellnow, D. (2021). I like my
+relational machine teacher: An AI instructor’s communication styles and
+social presence in online education. <em>International Journal of
+Human-Computer Interaction.</em> <a
+href="publications/Kim%20et%20al.%202021%20I%20Like%20My%20Relational%20Machine%20Teacher%20An%20AI%20Instructor%20s%20Communication%20Styles%20and%20Social%20Presence%20in%20Online%20Education.pdf">PDF</a></p>
+<p>Lombard, M., &amp; Xu, K. (corresponding author) (2021). Social
+responses to media technologies: The Media are Social Actors paradigm.
+<em>Human-Machine Communication, 2,</em> 29-55. <a
+href="https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1030&amp;context=hmc">PDF</a></p>
+<p>Xu, K., Liu, F., Mou, Y., Wu, Y., Zeng, J., &amp; Schafer, M. (2020).
+Using machine learning to learn machines: A cross-cultural study of
+users’ responses to machine-generated art works. <em>Journal of
+Broadcasting and Electronic Media, 64,</em> 566-591. <a
+href="publications/Xu%20et%20al.%202020%20Using%20Machine%20Learning%20to%20Learn%20Machines%20A%20Cross%20Cultural%20Study%20of%20Users%20Responses%20to%20Machine%20Generated%20Artworks.pdf">PDF</a></p>
+<p>Xu, K. (2020). Language, modality, and mobile media use experiences:
+Social responses to smartphone cues in a task-oriented context.
+<em>Telematics and Informatics, 48,</em> 101344 <a
+href="publications/Xu%202020%20Mobile%20phone%20study.pdf">PDF</a></p>
+<p>Xu, K., &amp; Liao, T. (2020). Explicating cues: A typology for
+understanding emerging media technologies. <em>Journal of
+Computer-Mediated Communication, 25,</em> 32-43. <a
+href="publications/Xu%20&amp;%20Liao%20Explicating%20Cues%20JCMC.pdf">PDF</a>;
+<a href="publications/ICA%20paper%205.30%20Kun%20&amp;%20Tony.pdf">Long
+Version</a></p>
+<p>Kim, J., Merrill, K., Xu, K., &amp; Sellnow, D. (2020). My teacher is
+a machine: Understanding students’ perception of AI teaching assistants
+in online education. <em>International Journal of Human-Computer
+Interaction, 36,</em> 1902-1911. <a
+href="publications/Kim%20et%20al.%202020.pdf">PDF</a></p>
+<p>Liao, T., &amp; Xu, K. (2020). A process approach to understanding
+multiple open source innovation contests: Assessing the contest
+structures, execution, and participant responses in the Android
+Developer Challenges. <em>Information and Organization, 30.</em> <a
+href="publications/Liao%20&amp;%20Xu%20Android%20contest%20I&amp;O%20.pdf">PDF</a></p>
+<p>Liao, T., Yang, H., Lee, S., Xu, K., &amp; Bennett, S. (2020).
+Augmented criminality: How people process in-situ augmented reality
+crime information in relation to space/place. <em>Mobile Media &amp;
+Communication, 8,</em> 360-378. <a
+href="publications/liao%20et%20al.%20augmented%20reality.pdf">PDF</a></p>
+<p>Wu, Y., Mou, Y., Li, Z., &amp; Xu, K. (2020). Investigating American
+and Chinese subjects’ explicit and implicit perceptions of AI-generated
+artistic work. <em>Computers in Human Behavior, 104,</em> 106186. <a
+href="publications/Wu%20et%20al.%20(2020)%20Chinese%20American%20implicit%20and%20explicit.pdf">PDF</a></p>
+<p>Xu, K. (2019). First encounter with robot Alpha: How individual
+differences interact with vocal and kinetic cues in users’ social
+responses. <em>New Media &amp; Society, 21,</em> 2522-2547. <a
+href="publications/Xu%202019%20Robot%20alpha.pdf">PDF</a></p>
+<p>Mou, Y., Xu, K., &amp; Xia, K. (2019). Unpacking the black box:
+Examining the (de)gender categorization effect in human-machine
+communication. <em>Computers in Human Behavior, 90,</em> 380-387. <a
+href="publications/Mou%20Xu%20Xia%20gender%20decategorization%20effect.pdf">PDF</a></p>
+<p>Mou, Y., Shi, C., Shen, T., Xu, K. (2019). A systematic review of the
+personality of robot: Mapping its conceptualization, operationalization,
+contextualization, and effects. <em>International Journal of
+Human-Computer Interaction, 36</em>, 591-605. <a
+href="publications/Mou%20et%20al%202019%20A%20Systematic%20Review.pdf">PDF</a></p>
+<p>Xu, K. (2018). Painting Chinese mythology: Varying touches on the
+magazine covers of Time, The Economist, Der Spiegel, and China Today.
+<em>International Communication Gazette, 80,</em> 135-157. <a
+href="publications/Xu_Painting%20Chinese%20Methology.pdf">PDF</a></p>
+<p>Xu, K. (2018). Location speaks: Using GIS approach and Weibo check-in
+data to understand information communication in China. <em>China Media
+Research, 14,</em> 29-43. <a
+href="publications/Xu%20Location%20speaks.pdf">PDF</a></p>
+<p>Steiner, E., &amp; Xu, K. (2018). Binge-watching motivates change:
+How the uses and gratifications of streaming video viewers are
+challenging traditional audience research. <em>Convergence: The
+International Journal of Research into New Media Technologies,
+26</em>(1), 82-101. <a
+href="publications/Steiner_Xu_bingewatching.pdf">PDF</a></p>
+<p>Xu, K., &amp; Lombard, M. (2017). Persuasive computing: Feeling peer
+pressure from multiple computer agents. <em>Computers in Human Behavior,
+74,</em> 152-162. <a
+href="publications/Xu_Lombard_Persuasive%20computing.pdf">PDF</a></p>
+<p>Mou, Y. &amp; Xu, K. (2017). The media inequality: Comparing the
+initial human-human and human-AI social interactions. <em>Computers in
+Human Behavior, 72,</em> 432-440. <a
+href="publications/Yi%20Xu_Media%20Inequality.pdf">PDF</a></p>
+<p>Xu, K., Lin, M., &amp; Haridakis, P. (2015). Being addicted to
+Chinese Twitter: Exploring the roles of users’ expected outcomes and
+deficient self-regulation in social network service addiction. <em>China
+Media Research, 11</em>(2), 1-16. <a
+href="publications/Xu%20et%20al%20-Being_addicted_to_Chinese_Twit.PDF">PDF</a></p>
 <p><font color="green"><strong>Book Chapters:</strong></font></p>
-<p>Lombard, M., Xu, K., &amp; Melissa, S. (2024). Future presence: Living with humanlike robots. In L. Fortunati &amp; A. Edwards (Eds.), <em>De Gruyter handbook of robots in society and culture.</em> De Gruyter: Berlin.</p>
-<p>Xu, K., Liu, F., Chen, X., &amp; Lombard, M. (2023). The Media are Social Actors paradigm and beyond: Theory, evidence, and future research. In S. Nah (Ed.), <em>Research handbook on artificial intelligence and communication,</em> pp. 337-354. Edward Elgar.</p>
-<p>Xu, K., &amp; Jeong, D. (2023). Social presence. In A. Guzman, R. McEwen, &amp; S. Jones (Eds.), <em>The handbook of human-machine communication,</em> pp.287-293. Sage.</p>
-<p>Lombard, M., Lee, S., Sun, W., Xu, K., &amp; Yang, H. (2017). Presence theory. In P. Roessler, C. Hoffner, &amp; L. Van-Zoonen (Eds.), <em>International encyclopedia of media effects,</em> pp. 1-13. Wiley-Blackwell. <a href="publications/Lombard%20et%20al.%20presence%20theory.pdf">PDF</a></p>
-<p>Mou, Y., Xu. K. (2017). Human-computer communication: An emerging communication realm. In B. Li., &amp; Y., Mou. (Eds.), <em>Future media: Opportunities and challenges,</em> pp. 42-51. Shanghai: Shanghai Jiao Tong University Press.</p>
-<p>Wallace, M., &amp; Knobel, B. (2017). Heat and light: Advice for the next generation of journalists. (C. Hua, &amp; K. Xu, Trans.). PRC: China Renmin University Press Co., LTD. <a href="https://book.douban.com/subject/26972289/">Link to Douban</a></p>
-<p><font color="green"><strong>Conference Proceedings:</strong></font></p>
-<p>Yerebakan, M. O., Hao, S., Xu, K., Gheisari, M., Jeelani, I., &amp; Hu, B. (2021). Effect of illumination on human drone interaction tasks: An explorative study. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 65(1), 1485-1489. Sage.</p>
-<p>Xu, K. (2018). Action speaks louder than words: A preliminary study of users’ social responses to social robots’ movements and voices. Proceedings of the 18th Conference of the International Society for Presence Research. ISBN: 978-0-9792217-6-7</p>
-<p>Xu, K., &amp; Lombard, M. (2018). Media are social actors: The role of social cues. Proceedings of the 18th Conference of the International Society for Presence Research. ISBN: 978-0-9792217-6-7</p>
-<p>Lombard, M., Selverian, M., Steiner, E., Xu, K., &amp; Yang, H. (2018). Implications of presence portrayals in popular culture: Challenges for the future of technology and humanity. Proceedings of the 18th Conference of the International Society for Presence Research. ISBN: 978-0-9792217-6-7</p>
-<p>Liao, T., Yang, H., Lee, S., Xu, K., Feng, P., &amp; Bennett, S. (2017). Augmented criminality: How mobile augmented reality crime overlays affect people’s sense of place. AoIR Selected Papers of Internet Research, 6.</p>
+<p>Lombard, M., Xu, K., &amp; Melissa, S. (2024). Future presence:
+Living with humanlike robots. In L. Fortunati &amp; A. Edwards (Eds.),
+<em>De Gruyter handbook of robots in society and culture.</em> De
+Gruyter: Berlin.</p>
+<p>Xu, K., Liu, F., Chen, X., &amp; Lombard, M. (2023). The Media are
+Social Actors paradigm and beyond: Theory, evidence, and future
+research. In S. Nah (Ed.), <em>Research handbook on artificial
+intelligence and communication,</em> pp. 337-354. Edward Elgar.</p>
+<p>Xu, K., &amp; Jeong, D. (2023). Social presence. In A. Guzman, R.
+McEwen, &amp; S. Jones (Eds.), <em>The handbook of human-machine
+communication,</em> pp.287-293. Sage.</p>
+<p>Lombard, M., Lee, S., Sun, W., Xu, K., &amp; Yang, H. (2017).
+Presence theory. In P. Roessler, C. Hoffner, &amp; L. Van-Zoonen (Eds.),
+<em>International encyclopedia of media effects,</em> pp. 1-13.
+Wiley-Blackwell. <a
+href="publications/Lombard%20et%20al.%20presence%20theory.pdf">PDF</a></p>
+<p>Mou, Y., Xu. K. (2017). Human-computer communication: An emerging
+communication realm. In B. Li., &amp; Y., Mou. (Eds.), <em>Future media:
+Opportunities and challenges,</em> pp. 42-51. Shanghai: Shanghai Jiao
+Tong University Press.</p>
+<p>Wallace, M., &amp; Knobel, B. (2017). Heat and light: Advice for the
+next generation of journalists. (C. Hua, &amp; K. Xu, Trans.). PRC:
+China Renmin University Press Co., LTD. <a
+href="https://book.douban.com/subject/26972289/">Link to Douban</a></p>
+<p><font color="green"><strong>Conference
+Proceedings:</strong></font></p>
+<p>Yerebakan, M. O., Hao, S., Xu, K., Gheisari, M., Jeelani, I., &amp;
+Hu, B. (2021). Effect of illumination on human drone interaction tasks:
+An explorative study. Proceedings of the Human Factors and Ergonomics
+Society Annual Meeting, 65(1), 1485-1489. Sage.</p>
+<p>Xu, K. (2018). Action speaks louder than words: A preliminary study
+of users’ social responses to social robots’ movements and voices.
+Proceedings of the 18th Conference of the International Society for
+Presence Research. ISBN: 978-0-9792217-6-7</p>
+<p>Xu, K., &amp; Lombard, M. (2018). Media are social actors: The role
+of social cues. Proceedings of the 18th Conference of the International
+Society for Presence Research. ISBN: 978-0-9792217-6-7</p>
+<p>Lombard, M., Selverian, M., Steiner, E., Xu, K., &amp; Yang, H.
+(2018). Implications of presence portrayals in popular culture:
+Challenges for the future of technology and humanity. Proceedings of the
+18th Conference of the International Society for Presence Research.
+ISBN: 978-0-9792217-6-7</p>
+<p>Liao, T., Yang, H., Lee, S., Xu, K., Feng, P., &amp; Bennett, S.
+(2017). Augmented criminality: How mobile augmented reality crime
+overlays affect people’s sense of place. AoIR Selected Papers of
+Internet Research, 6.</p>
 
 
 
@@ -431,7 +551,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
