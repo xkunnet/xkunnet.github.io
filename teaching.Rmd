@@ -7,43 +7,23 @@ output: pdf_document
 
 **University of Florida (2019-present):**
 
- - Spring 2025: RTV 4930 Media User Experience
- - Fall 2024: MMC 6936 Human-Machine Communication (Graduate level) [reading list](Files/HMC reading list 2024.pdf)
- - Fall 2024: RTV 4930 Technology User Experience
- - Spring 2024: RTV 4930 Media User Experience
- - Spring 2024: MMC 6936 Computer-Mediated Communication (Graduate level)
- - Fall 2023: MMC 6936 Human-Machine Communication (Graduate level)
- - Fall 2023: RTV 4930 Media User Experience 
- - Spring 2023: MMC 6936 Computer-Mediated Communication (Graduate level)
- - Spring 2023: RTV 4930 Media User Experience 
- - Fall 2022: MMC 6936 Human-Machine Communication (Graduate level)
- - Fall 2022: RTV 4930 Media User Experience 
- - Spring 2022: MMC 6936 Computer-Mediated Communication (Graduate level) [reading list](Files/CMC readings.pdf)
- - Spring 2022 RTV 3405 Media and Society (~70 students)
- - Fall 2021: MMC 6936 Human-Machine Communication (Advanced graduate level)
- - Fall 2021: RTV 3405 Media and Society (~50 students)
- - Spring 2021: RTV 3405 Media and Society (~200 students)
- - Spring 2021: MMC 6936 Computer-Mediated Communication (Graduate level)
- - Fall 2020: MMC 6936 Human-Machine Communication (Advanced graduate level)
- - Fall 2020: RTV 3405 Media and Society (~70 students)
- - Spring 2020: MMC 6936 Computer-Mediated Communication (Graduate level)
- - Spring 2020: RTV 3405 Media and Society (~110 students)
- - Fall 2019: RTV 3405 Media and Society (~130 students)
+- MMC 6936 Human-Machine Communication (Graduate level): Fall 2020, Fall 2021, Fall 2022, Fall 2023, Fall 2024, [reading list for Fall 2024](Files/HMC reading list 2024.pdf)
+ 
+- MMC 6936 Computer-Mediated Communication (Graduate level): Spring 2020, Spring 2021, Spring 2022, Spring 2023, [reading list for Spring 2022](Files/CMC readings.pdf) 
+ 
+- RTV 4930 Media User Experience (Undergraduate level): Fall 2022 - Spring 2025
+ 
+- RTV 3405 Media and Society (Undergraduate level; large-size class): Fall 2019 - Spring 2022
 
 **Temple University (2016-2019):**
 
-- Spring 2019: MSP 3471 Media and Cultural Differences
-- Spring 2019: MSP 2741 Internet Studies and Web Authoring (section 701), online course
-- Spring 2018: MSP 4541 Mobile Media (section 401)
-- Spring 2018: MSP 4541 Mobile Media (section 001)
-- Fall 2017: MSP 4541 Mobile Media (section 001)
-- Fall 2017: MSP 4541 Mobile Media (section 002)
-- Summer 2017: MSP 3421 Technology and Culture
-- Spring 2017: MSP 3421 Technology and Culture
-- Spring 2017: MSP 4541 Mobile Media
-- Fall 2016: MSP 0821 Future of Your TV
+- MSP 3471 Media and Cultural Differences: Spring 2019
+- MSP 2741 Internet Studies and Web Authoring, online course: Spring 2019
+- MSP 3421 Technology and Culture: Spring 2017, Summer 2017
+- MSP 4541 Mobile Media: Spring 2017, Fall 2017(x2), Spring 2018(x2)
+- MSP 0821 Future of Your TV: Fall 2016
 
-**Based on my teaching specialities, in addition to the courses listed above, I am willing to offer courses related to**
+**Based on my teaching specialties, in addition to the courses listed above, I am willing to offer courses related to**
 
 - Psychological Processing of Media
 - Quantitative Research Methods (e.g., survey design, experiment design, basic inferential statistics)
