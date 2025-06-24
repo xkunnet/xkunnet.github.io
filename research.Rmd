@@ -3,8 +3,6 @@ title: "Research Areas"
 output: html_document
 ---
 
-<br>
-<br>
 
 <font color="green">Latest update: 6/1/2025</font>
 
@@ -12,8 +10,6 @@ I identify myself as an HCI scholar who focuses on the roles of social cues and 
 
 I was honored and lucky to have been mentored by two great scholars in the areas of presence and virtual/augmented reality: [Dr. Matthew Lombard](https://klein.temple.edu/faculty/matthew-lombard) and [Dr. Tony Liao](https://dot.egr.uh.edu/departments/ilt/people/faculty/liao-tony). 
 
-<br>
-<br>
 
 <font color="green">**My research program subsumes three general directions:**</font>
 
@@ -23,7 +19,6 @@ I was honored and lucky to have been mentored by two great scholars in the areas
 
 [3] Bridging communication research with explainable AI and understanding how various explanation components affect individuals’ decision-making in human-AI interactions.
 
-<br>
 <br>
 
 <font color="green">**[1] Testing and extending the Computers are Social Actors (CASA) paradigm to the Media are Social Actors (MASA) paradigm:**</font>
@@ -49,7 +44,6 @@ Xu, K., Chen, M., & You, L. (2023). The hitchhiker's guide to a credible and soc
 Xu, K., Chen, X., & Huang, L. (2022). Deep mind in social responses to technologies: A new approach to explaining the Computers are Social Actors phenomena. *Computers in Human Behavior, 134,* 107321. [PDF](publications/Xu et al. 2022 Deep mind in social responses.pdf)
 
 <br>
-<br>
 
 <font color="green">**[2] Testing and developing a framework that integrates interpersonal communication, HCI, and computer-mediated communication (CMC):**</font>
 
@@ -72,7 +66,6 @@ Xu, K., & Lombard, M. (2017). Persuasive computing: Feeling peer pressure from m
 Xu, K. (2023). A mini imitation game: How individuals model social robots via behavioral outcomes and social roles. *Telematics & Informatics, 78,* 101950. [PDF](publications/Xu 2023 mini imitation game.pdf)
 
 <br>
-<br>
 
 <font color="green">**[3] Bridging communication research with explainable AI and understanding how various explanation components affect individuals’ decision-making in human-AI interactions:**</font>
 
@@ -81,8 +74,6 @@ The third line concentrates on XAI and examines how various forms of explanation
 &nbsp;
 
 ![](images/XAI.png)
- 
-<br>
 
 <u>Relevant publications:</u>
 
