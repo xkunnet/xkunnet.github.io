@@ -1,6 +1,6 @@
 ---
 title: "Independent Teaching Experiences"
-output: pdf_document
+output: html_document
 ---
 &nbsp;
 &nbsp;

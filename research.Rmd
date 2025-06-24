@@ -69,11 +69,10 @@ Xu, K. (2023). A mini imitation game: How individuals model social robots via be
 
 <font color="green">**[3] Bridging communication research with explainable AI and understanding how various explanation components affect individuals’ decision-making in human-AI interactions:**</font>
 
+![](images/XAI.png) 
+
 The third line concentrates on XAI and examines how various forms of explanations about algorithms may affect users’ attitudes toward AI-made decisions. Given that AI-based technologies are becoming more automatic, multi-layered, and ubiquitous, explanations of the working mechanisms of these technologies, especially concerning the role of human intervention and human verification in the algorithms of these technologies, will be pivotal in fostering our theorization of AI. This line of work will provide insights into how individuals may engage in a two-level communication process, where the content and the forms of the explanations of AI systems will serve as an additional meaning-making process and merge with the first-level meaning-making between humans and AI systems. Building on my prior work on cues and human-centered AI, I anticipate that these two lines of research will continue to inform areas such as user interface design, education, health intervention, teleconferencing, as well as shed light on the philosophical and methodological discussions about human-technology relationships. 
 
-&nbsp;
-
-![](images/XAI.png)
 
 <u>Relevant publications:</u>
 
