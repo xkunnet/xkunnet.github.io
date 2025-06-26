@@ -5,9 +5,11 @@ output:
   pdf_document: default
 ---
 
-<font color="red">Latest update: 03/31/2025.</font>
+<font color="red">Latest update: 05/31/2025.</font>
 
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
+
+Xu, K., Chen, Y., Li, J., Liao, T., & Chan-Olmsted, S. (2025). Tracked but not trapped: Negotiating body tracking technologies for embodiment and privacy protection in VR. *Computers in Human Behavior, 170,* 108706. [PDF](publications/Xu et al. 2025 Tracked but not trapped.pdf)
 
 Liao, T., Xu, K., & Spencer, B. (2025). Is it time for augmented reality theory? Identifying challenges and pathways for theoretical development. *Journal of Media Psychology, 37.* [PDF](publications/Liao et al. 2025 JMP.pdf)
 
@@ -118,6 +120,8 @@ Wallace, M., & Knobel, B. (2017). Heat and light: Advice for the next generation
 
 
 <font color="green">**Conference Proceedings:**</font>
+
+Cheon, S., Stanbury, A., Lam, J., Xu, K., Kang, H. (2025). Virtual tutors for science labs: Exploring the impact of GPT integration and 3D tutor avatars on student engagement and learning outcomes. ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW).
 
 Yerebakan, M. O., Hao, S., Xu, K., Gheisari, M., Jeelani, I., & Hu, B. (2021). Effect of illumination on human drone interaction tasks: An explorative study. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 65(1), 1485-1489. Sage. 
 
