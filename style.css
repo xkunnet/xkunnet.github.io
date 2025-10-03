@@ -1,7 +1,17 @@
-img {
-  width: 200px;
+img.img-small {
+  width: 200px !important;
+  max-width: 200px !important;
+  height: auto;
+  display: block;
+  margin: 0 auto;   /* center */
+  padding: 10px;    /* optional */
+}
+
+
+img.img-medium {
+  width: 400px !important;
+  max-width: 400px !important;
+  height: auto;
   display: block;
   margin: 0 auto;
-  float: left;
-  padding: 20px;
 }

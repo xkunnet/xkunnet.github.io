@@ -1,12 +1,12 @@
 ---
 title: "Research Areas"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 
-<font color="green">Latest update: 6/1/2025</font>
+<font color="green">Latest update: 8/1/2025</font>
 
 I identify myself as an HCI scholar who focuses on the roles of social cues and social presence in individuals’ psychological processing of emerging technologies, including humanoid social robots and virtual/augmented agents. To be more specific, my research investigates how and why various combinations of social cues designed into AI-based technologies evoke users’ social responses, including their perceptions of technologies as social entities (i.e., social presence), their trust in technologies, and their compliance with/conformity to technologies. I am also broadly interested in Science and Technology Studies (STS) and seek to understand the mutual shaping between humans and machines.
 
@@ -27,12 +27,12 @@ I was honored to have been mentored by two great scholars in the areas of presen
 
 <font color="green">**[1] Testing and extending the Computers are Social Actors (CASA) paradigm to the Media are Social Actors (MASA) paradigm:**</font>
 
-![](images/masa2.png)
+![](images/masa2.png){.img-small}
 
 This first line of my research seeks to update and extend the classic HCI framework, the Computers Are Social Actors (CASA) paradigm. This paradigm has been widely applied to predict how users mindlessly apply some of the social scripts of interpersonal communication to HCI. However, some gaps remain to be filled in past CASA literature: 1) what social cues exert stronger effects than others in evoking users’ social responses, 2) what mechanism best explains users’ psychological responses to technologies, and 3) how “social” a technology can be to bring forth users’ mindless social responses. Therefore, my works extend this paradigm to a more structured and proposition-based framework, the Media Are Social Actors (MASA) paradigm, by distinguishing the effects of single social cues designed into technologies, identifying the application contingencies of mindless anthropomorphism and mindful anthropomorphism as two major explanatory architectures, and drawing on evolutionary psychology to build the foundation for the paradigm. This new theoretical framework lists testable propositions that allow scholars to derive hypotheses and research questions in future AI research. 
 
-![](images/robot.png)
-![](images/multidimensional.png)
+![](images/robot.png){.img-small}
+![](images/multidimensional.png){.img-medium}
 
 <u>Relevant publications:</u>
 

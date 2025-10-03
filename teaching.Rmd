@@ -1,5 +1,5 @@
 ---
-title: "Independent Teaching Experiences"
+title: "Teaching Experiences"
 output: html_document
 ---
 &nbsp;
