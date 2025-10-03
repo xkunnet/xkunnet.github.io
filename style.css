@@ -2,8 +2,6 @@ img.img-small {
   width: 200px !important;
   max-width: 200px !important;
   height: auto;
-  display: block;
-  margin: 0 auto;   /* center */
   padding: 10px;    /* optional */
 }
 
@@ -12,6 +10,41 @@ img.img-medium {
   width: 400px !important;
   max-width: 400px !important;
   height: auto;
+  padding: 10px;
+}
+
+/* ---- Float classes for text wrapping ---- */
+img.float-left {
+  float: left;
+  margin: 0 16px 12px 0;   /* space on right & bottom */
+}
+
+img.float-right {
+  float: right;
+  margin: 0 0 12px 16px;   /* space on left & bottom */
+}
+
+/* ---- Centered images: no wrapping ---- */
+img.center {
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 16px auto; /* centered horizontally */
+  float: none;              /* disable wrapping */
+  clear: both;              /* force text to start below */
+}
+
+/* ---- Clear float helper (when you need it manually) ---- */
+.clearfix {
+  clear: both;
+}
+
+/* ---- Responsive override for small screens ---- */
+@media (max-width: 600px) {
+  img.float-left,
+  img.float-right {
+    float: none !important;
+    display: block;
+    margin: 0 auto 12px auto;
+    width: 100%;
+    max-width: 320px; /* adjust as needed */
+  }
 }
