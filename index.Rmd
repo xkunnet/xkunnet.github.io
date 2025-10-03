@@ -3,7 +3,7 @@ title: "About Me"
 ---
 
 
-![](~/Documents/GitHub/kunxu.github.io/images/me.jpg){.float-left .img-small}
+![](~/Documents/GitHub/kunxu.github.io/images/me.jpg){.float-right .img-small}
 
 My name is Kun Xu. I am an Associate Professor of Emerging Technologies at the [University of Florida College of Journalism and Communications](https://www.jou.ufl.edu/). I also serve as Directors of Media Effects & Technology Lab (METL) as well as the University of Florida College of Journalism and Communications Research Lab. 
 
