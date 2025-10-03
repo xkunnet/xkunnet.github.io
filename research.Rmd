@@ -1,6 +1,8 @@
 ---
 title: "Research Areas"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 
@@ -8,7 +10,7 @@ output: html_document
 
 I identify myself as an HCI scholar who focuses on the roles of social cues and social presence in individuals’ psychological processing of emerging technologies, including humanoid social robots and virtual/augmented agents. To be more specific, my research investigates how and why various combinations of social cues designed into AI-based technologies evoke users’ social responses, including their perceptions of technologies as social entities (i.e., social presence), their trust in technologies, and their compliance with/conformity to technologies. I am also broadly interested in Science and Technology Studies (STS) and seek to understand the mutual shaping between humans and machines.
 
-I was honored and lucky to have been mentored by two great scholars in the areas of presence and virtual/augmented reality: [Dr. Matthew Lombard](https://klein.temple.edu/faculty/matthew-lombard) and [Dr. Tony Liao](https://dot.egr.uh.edu/departments/ilt/people/faculty/liao-tony). 
+I was honored to have been mentored by two great scholars in the areas of presence and virtual/augmented reality: [Dr. Matthew Lombard](https://klein.temple.edu/faculty/matthew-lombard) and [Dr. Tony Liao](https://www.ist.uh.edu/faculty/liao-tony). 
 
 
 <font color="green">**My research program subsumes three general directions:**</font>
@@ -18,6 +20,8 @@ I was honored and lucky to have been mentored by two great scholars in the areas
 [2] Testing and developing a framework that integrates interpersonal communication, human-computer interaction, and computer-mediated communication to better understand AI technologies;
 
 [3] Bridging communication research with explainable AI and understanding how various explanation components affect individuals’ decision-making in human-AI interactions.
+
+[4] Applying diverse methods to understand broad emerging media effects, including those in VR, AR, and mobile media.
 
 <br>
 
@@ -77,3 +81,21 @@ The third line concentrates on XAI and examines how various forms of explanation
 <u>Relevant publications:</u>
 
 Xu, K., & Shi, J. (2024). Visioning a two-level human-machine communication framework: Initiating conversations between explainable AI and communication. *Communication Theory, 34,* 216-229. [PDF](publications/Xu & Shi 2024 XAI & communication.pdf)
+
+<br>
+
+<font color="green">**[4] Applying diverse methods to understand broad emerging media effects:**</font>
+
+My last line of research adopts various methods and analyses to understand emerging technologies, including VR, AR, and mobile media. Those methods include computational methods (e.g., unsupervised learning, geographic information systems), structural equation modeling, meta-analysis, multidimensional scaling, semiotic analysis, and interviews. 
+
+<u>Relevant publications:</u>
+
+Xu, K., Chen, Y., Li, J., Liao, T., & Chan-Olmsted, S. (2025). Tracked but not trapped: Negotiating body tracking technologies for embodiment and privacy protection in VR. *Computers in Human Behavior, 170,* 108706. [PDF](publications/Xu et al. 2025 Tracked but not trapped.pdf)
+
+Xu, K., Chan-Olmsted, S., & Liu, F. (2022). Smart speakers require smart management: Two routes from user gratifications to privacy settings. *International Journal of Communication, 16,* 192-214. [PDF](publications/Xu et al. 2022 Smartspeakers.pdf)
+
+Xu, K., Chen, X., & Huang, L. (2022). Deep mind in social responses to technologies: A new approach to explaining the Computers are Social Actors phenomena. *Computers in Human Behavior, 134,* 107321. [PDF](publications/Xu et al. 2022 Deep mind in social responses.pdf)
+
+Xu, K., Liu, F., Mou, Y., Wu, Y., Zeng, J., & Schafer, M. (2020). Using machine learning to learn machines: A cross-cultural study of users’ responses to machine-generated art works. *Journal of Broadcasting and Electronic Media, 64,* 566-591. [PDF](publications/Xu et al. 2020 Using Machine Learning to Learn Machines A Cross Cultural Study of Users Responses to Machine Generated Artworks.pdf)
+
+Xu, K. (2018). Location speaks: Using GIS approach and Weibo check-in data to understand information communication in China. *China Media Research, 14,* 29-43. [PDF](publications/Xu Location speaks.pdf)

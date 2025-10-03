@@ -5,10 +5,10 @@ title: "About Me"
 
 ![](~/Documents/GitHub/kunxu.github.io/images/me.jpg)
 
-My name is Kun Xu. I am an Associate Professor of Emerging Technologies at the [University of Florida College of Journalism and Communications](https://www.jou.ufl.edu/). I also serve as the Directors of Media Effects & Technology Lab and the UFCJC Research Lab. 
+My name is Kun Xu. I am an Associate Professor of Emerging Technologies at the [University of Florida College of Journalism and Communications](https://www.jou.ufl.edu/). I also serve as Directors of Media Effects & Technology Lab (METL) as well as the University of Florida College of Journalism and Communications Research Lab. 
 
 My research focuses on human-robot interaction, human-agent interaction, computer-mediated communication, and psychological processing of emerging media. I use social scientific approaches to investigate how people perceive, process, and respond to humanoid social robots, AI agents, and augmented characters. I am also interested in how people make sense of spaces and maintain social relationships in virtual and mixed reality environments. 
 
-My research seeks to inform UI design, UX design, education, health communication, and political communication. I primarily use lab experiments, multivariate/modeling techniques (SEM and HLM), computational methods (GIS, machine learning), and visual analyses in my works.
+My research seeks to inform UI design, UX design, education, health communication, and political communication. I primarily use lab experiments, multivariate/modeling techniques (SEM and HLM), computational methods (GIS, machine learning), interviews, and visual analyses in my works.
 
 Born and brought up in Shanghai, I received my B.A. in International Journalism (major) and German (minor) from [Shanghai International Studies University](http://en.shisu.edu.cn/). I worked as a cameraman in the TV Department at [Reuters News Agency](https://www.reuters.com/) and as a news editor in the TV Center of Shanghai Media Group (SMG). I obtained my Ph.D. in media and communication at [Temple University](https://klein.temple.edu/academics/media-and-communication-doctoral-program).

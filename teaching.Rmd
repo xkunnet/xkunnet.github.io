@@ -33,8 +33,8 @@ output: html_document
 
 - Chair, Xiaobei Chen, UFCJC
 - Chair, Jiayue Li, UFCJC
-- Co-chair, Fanjue Liu, UFCJC, graduated 2024
-- Member, Benjamin Vollmer, UFCJC
+- Chair, Fanjue Liu, UFCJC, graduated 2024
+- Member, Benjamin Vollmer, UFCJC，graduated 2025
 - Member, Yeonseo Jo, Department of Tourism, Hospitality, and Event Management, UF
 - Member, Andrew Maxim, Department of Computer and Information Science and Engineering, UF
 - Member, Mustafa Ozkan Yerebakan, Department of Industrial and Systems Engineering, UF, graduated 2024
