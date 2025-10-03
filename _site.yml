@@ -36,6 +36,8 @@ output:
   html_document:
     theme: simplex
     css: style.css
+    self_contained: false
+files: ["style.css", "images", "publications", ".nojekyll"]
 
 
     
