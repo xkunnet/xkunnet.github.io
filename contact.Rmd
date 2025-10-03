@@ -3,6 +3,7 @@ title: "Contact"
 output: html_document
 ---
 
+![](~/Documents/GitHub/kunxu.github.io/images/meandrobot.png){.float-right .img-small}
 
 Department of Media Production, Management, and Technology\
 College of Journalism and Communications  
