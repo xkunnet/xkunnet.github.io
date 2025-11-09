@@ -13,6 +13,8 @@ Xu, K., Chen, Y., Li, J., Liao, T., & Chan-Olmsted, S. (2025). Tracked but not t
 
 Liao, T., Xu, K., & Spencer, B. (2025). Is it time for augmented reality theory? Identifying challenges and pathways for theoretical development. *Journal of Media Psychology, 37.* [PDF](publications/Liao et al. 2025 JMP.pdf)
 
+Shi, J., Xu, K., & Chen, X. (2025). Tweaking the messages and approaching the glass box: Using AI chatbots to promote help-seeking for depressive symptoms. *Journal of Health Communication.* [PDF](publications/Shi et al. 2025 Tweaking the Messages.pdf)
+
 Shi, J., Xia, X., Zhuang, H., & Li, Z., & Xu, K. (2025). Empowering individuals to adopt artificial intelligence for health information seeking: A latent profile analysis among users in Hong Kong. *Social Science & Medicine, 375,* 118059. [PDF](publications/Shi et al. 2025 Social Science & Medicine.pdf)
 
 Xu, K., & Shi, J. (2024). Visioning a two-level human-machine communication framework: Initiating conversations between explainable AI and communication. *Communication Theory, 34,* 216-229. [PDF](publications/Xu & Shi 2024 XAI & communication.pdf)
