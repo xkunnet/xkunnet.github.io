@@ -5,7 +5,7 @@ output:
   pdf_document: default
 ---
 
-<font color="red">Latest update: 05/31/2025.</font>
+<font color="red">Latest update: 11/01/2025.</font>
 
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
 
