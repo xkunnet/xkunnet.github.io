@@ -20,4 +20,4 @@ Email: kun [dot] xu [at] ufl [dot] edu
 
 中文介绍：
 
-本人现为美国佛罗里达大学新闻与传播学院副教授及终身教授，兼任学院媒介效果与技术实验室主任，研究领域聚焦于社交机器人(social robots)，虚拟现实(VR)和增强现实(AR)。特别关注有关交互临场感 (social presence) 与空间临场感 (spatial presence) 的理论建设与实证研究。教学领域包括人机传播(human-machine communication), 人机互动(human-computer interaction), 计算机辅助传播(computer-mediated communication), 用户体验(user experience)。
+本人现为美国佛罗里达大学新闻与传播学院副教授及终身教授，兼任学院[媒介效果与技术实验室](https://www.jou.ufl.edu/metl/)主任以及[学院实验室](https://www.jou.ufl.edu/researchlab/)主任，研究领域聚焦于社交机器人(social robots)，虚拟现实(VR)和增强现实(AR)。特别关注有关交互临场感 (social presence) 与空间临场感 (spatial presence) 的理论建设与实证研究。教学领域包括人机传播(human-machine communication), 人机互动(human-computer interaction), 计算机辅助传播(computer-mediated communication), 用户体验(user experience)。

@@ -5,7 +5,7 @@ title: "About Me"
 
 ![](~/Documents/GitHub/kunxu.github.io/images/me.jpg){.float-right .img-small}
 
-My name is Kun Xu. I am an Associate Professor of Emerging Technologies at the [University of Florida College of Journalism and Communications](https://www.jou.ufl.edu/). I also serve as Directors of Media Effects & Technology Lab (METL) as well as the University of Florida College of Journalism and Communications Research Lab. 
+My name is Kun Xu. I am an Associate Professor of Emerging Technologies at the [University of Florida College of Journalism and Communications](https://www.jou.ufl.edu/). I also serve as Directors of [Media Effects & Technology Lab](https://www.jou.ufl.edu/metl/) (METL) as well as the University of Florida [College of Journalism and Communications Research Lab](https://www.jou.ufl.edu/researchlab/). 
 
 My research focuses on human-robot interaction, human-agent interaction, computer-mediated communication, and psychological processing of emerging media. I use social scientific approaches to investigate how people perceive, process, and respond to humanoid social robots, AI agents, and augmented characters. I am also interested in how people make sense of spaces and maintain social relationships in virtual and mixed reality environments. 
 
