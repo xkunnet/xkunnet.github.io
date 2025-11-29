@@ -1,5 +1,6 @@
 ---
 title: "CV"
+output: pdf_document
 ---
 
-Here is my [CV](Files/Kun CV LTX.pdf). Latest update: 04/15/2025
+Here is my [CV](Files/Kun CV LTX.pdf). Latest update: 11/01/2025
