@@ -1,6 +1,8 @@
 ---
 title: "CV"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 ---
 
-Here is my [CV](Files/Kun CV LTX.pdf). Latest update: 11/01/2025
+Here is my [CV](Files/Kun CV LTX.pdf). Latest update: 1/31/2026
