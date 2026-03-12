@@ -11,7 +11,7 @@ output: html_document
  
 - MMC 6936 Computer-Mediated Communication (Graduate level): Spring 2020, Spring 2021, Spring 2022, Spring 2023, [reading list for Spring 2022](Files/CMC readings.pdf) 
  
-- RTV 4930 Media User Experience (Undergraduate level): Fall 2022 - Spring 2025
+- RTV 4930 Media User Experience (Undergraduate level): Fall 2022 - Spring 2026
  
 - RTV 3405 Media and Society (Undergraduate level; large-size class): Fall 2019 - Spring 2022
 
@@ -36,7 +36,7 @@ output: html_document
 - Chair, Fanjue Liu, UFCJC, graduated 2024
 - Member, Benjamin Vollmer, UFCJC，graduated 2025
 - Member, Yeonseo Jo, Department of Tourism, Hospitality, and Event Management, UF
-- Member, Andrew Maxim, Department of Computer and Information Science and Engineering, UF
+- Member, Andrew Maxim, Department of Computer and Information Science and Engineering, UF, graduated 2026
 - Member, Mustafa Ozkan Yerebakan, Department of Industrial and Systems Engineering, UF, graduated 2024
 - Member, Weizi Liu, School of Information Sciences, University of Illinois Urbana-Champaign, graduated 2024
 - Member, Heidi Makady, UFCJC, graduated 2023

@@ -5,9 +5,13 @@ output:
   pdf_document: default
 ---
 
-<font color="red">Latest update: 11/01/2025.</font>
+<font color="red">Latest update: 03/01/2026.</font>
 
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
+
+Huang, L., & Xu, K. (corresponding author) (2026). The field of communication is becoming less disruptive: Analyses of citation data over four decades. *Annals of the International Communication Association.* [PDF](publications/Huang & Xu Annals of ICA.pdf)
+
+Li, J., & Xu, K. (corresponding author) (2026). Reflecting, evoking, and reshaping connection: What home-based social robots tell us about companionship. *International Journal of Social Robotics, 18.* [PDF](publications/Lynn & Xu 2026 robot companionship.pdf)
 
 Xu, K., Chen, Y., Li, J., Liao, T., & Chan-Olmsted, S. (2025). Tracked but not trapped: Negotiating body tracking technologies for embodiment and privacy protection in VR. *Computers in Human Behavior, 170,* 108706. [PDF](publications/Xu et al. 2025 Tracked but not trapped.pdf)
 
@@ -20,7 +24,7 @@ Shi, J., Xia, X., Zhuang, H., & Li, Z., & Xu, K. (2025). Empowering individuals 
 Xu, K., & Shi, J. (2024). Visioning a two-level human-machine communication framework: Initiating conversations between explainable AI and communication. *Communication Theory, 34,* 216-229. [PDF](publications/Xu & Shi 2024 XAI & communication.pdf)
 
 
-Xu, K., Chen, X., Liu, F., & Huang, L. (2024). What did you hear and what did you see? Understanding the transparency of facial recognition and speech recognition systems during human-robot interaction. *New Media & Society.* Online First. [PDF](publications/xu-et-al-2024-what-did-you-hear-and-what-did-you-see-understanding-the-transparency-of-facial-recognition-and-speech.pdf) 
+Xu, K., Chen, X., Liu, F., & Huang, L. (2025). What did you hear and what did you see? Understanding the transparency of facial recognition and speech recognition systems during human-robot interaction. *New Media & Society, 27,* 5776-5802. [PDF](publications/xu-et-al-2024-what-did-you-hear-and-what-did-you-see-understanding-the-transparency-of-facial-recognition-and-speech.pdf) 
 
 Kim, J., Jin, X., Xu, K., Chen, X., & Yang, H. (2024). What do people say about Replika, an AI chatot, on social media? Investigating diverse perspectives on the implications of Replika through a topic modeling analysis. *The Social Science Journal.* [pdf](publications/Kim et al 2024 What do people say about Replika  an AI chatbot  on social media  Investigating diverse perspectives on the implications of Replika through a topic mo.pdf)
 
