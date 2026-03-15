@@ -5,4 +5,4 @@ output:
     df_print: paged
 ---
 
-Here is my [CV](Files/Kun CV LTX.pdf). Latest update: 1/31/2026
+Here is my [CV](Files/Kun CV LTX.pdf). Latest update: 03/01/2026
