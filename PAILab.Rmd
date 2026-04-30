@@ -37,7 +37,7 @@ Graduate students at the PAI Lab combine technology research with a variety of t
 
 <img src="images/fanjue.JPG" alt="Fanjue" style="width: 200px; float: left; padding: 20px;"/>
 
-Fanjue Liu is an assistant professor in digital techonlogy and culture at Shanghai Jiao Tong University. She was a doctoral student at the University of Florida. Her research investigates how people perceive and interact socially with emerging technologies such as virtual humans. Specifically, she investigates how people use different psychological patterns to interact with virtual influencers, how the emergence of virtual influencers changes the dynamics of influencer marketing, and whether virtual influencers can be considered a viable substitute for human influencers.\
+Fanjue Liu is an assistant professor in Digital Techonlogy and Culture at Shanghai Jiao Tong University. She was a doctoral student at the University of Florida. Her research investigates how people perceive and interact socially with emerging technologies such as virtual humans. Specifically, she investigates how people use different psychological patterns to interact with virtual influencers, how the emergence of virtual influencers changes the dynamics of influencer marketing, and whether virtual influencers can be considered a viable substitute for human influencers.\
 
 <br>
 <br>
@@ -49,18 +49,30 @@ Fanjue Liu is an assistant professor in digital techonlogy and culture at Shangh
 <br>
 <img src="images/xiaobei.JPG" alt="Xiaobei" style="width: 200px; float: left; padding: 20px;"/>
 
-Xiaobei Chen is a current PhD/MPH student with concentrations in health communication and epidemiology.  Her research areas include (1) using emerging technologies as interventions for health professionals and patients, (2) examining the association between health technologies and disparities, and (3) exploring public health emergency communication on social media.  In terms of the topics, she focuses on cancer, infectious diseases, and empathic communication in healthcare. \
+Xiaobei Chen is a current PhD candidate with concentrations in health communication and epidemiology.  Her research areas include (1) using emerging technologies as interventions for health professionals and patients, (2) examining the association between health technologies and disparities, and (3) exploring public health emergency communication on social media.  In terms of the topics, she focuses on cancer, infectious diseases, and empathic communication in healthcare. \
 
 <br>
 <br>
 <br>
 <br>
 <br>
+
 [Lynn Jiayue Li](https://www.jou.ufl.edu/staff/jiayue-lynn-li/)
 <br>
 <img src="images/jiayue.JPG" alt="Jiayue" style="width: 200px; float: left; padding: 20px;"/>
 
 Jiayue Lynn Li is a PhD student with a background in media, cultural, and communication studies. Her research interests span digital communication, human-computer/robot interaction, and critical media analysis from a phenomenological standpoint. Her current projects focus on how individuals interact with and make meanings from digital artifacts such as memes created by selfies and (dis)embodied robots, and how this shapes our understanding of the self, others, and the world.\
+
+<br>
+<br>
+<br>
+<br>
+
+[Tse-hsi Chien]
+
+<img src="images/tsehsi.jpg" alt="tsehsi" style="width: 200px; float: left; padding: 20px;"/>
+
+Tse-hsi Chien will be a Ph.D. student in the College of Journalism and Communications at the University of Florida, where she also received her M.A. in Mass Communication. Her research interests lie at the intersection of moral cognition and emerging technologies. Specifically, she studies (1) how moral cues in media messages shape moral judgment, emotion, and prosocial outcomes; and (2) how artificial intelligence and other emerging technologies influence perceptions of responsibility, agency, and condemnation in morally relevant contexts. \
 
 <br>
 <br>
