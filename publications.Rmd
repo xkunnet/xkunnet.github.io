@@ -1,8 +1,8 @@
 ---
 title: "Publications"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 <font color="red">Latest update: 08/15/2026.</font>
@@ -16,7 +16,7 @@ Li, J., & Xu, K. (corresponding author) (2026). Reflecting, evoking, and reshapi
 
 Liu, F., Chen, X., & Xu, K. (corresponding author) (2026). Charting the evolution of human-machine communication: A systematic review of 25 years of empirical research.  *Annals of the International Communication Association.* [PDF](publications/Liu et al. 2026 HMC review.pdf) 
 
-Liu, W., & Xu, K. (2026). Shifting dynamics in human-machine communication: The interplay of user and chatbot gender across two studies. *Communication and Change, 2.* [PDF](Liu & Xu 2026 Shifting dynamics in HMC.pdf)  
+Liu, W., & Xu, K. (2026). Shifting dynamics in human-machine communication: The interplay of user and chatbot gender across two studies. *Communication and Change, 2.* [PDF](publications/Liu & Xu 2026 Shifting dynamics in HMC.pdf)
 
 Xu, K., Chen, Y., Li, J., Liao, T., & Chan-Olmsted, S. (2025). Tracked but not trapped: Negotiating body tracking technologies for embodiment and privacy protection in VR. *Computers in Human Behavior, 170,* 108706. [PDF](publications/Xu et al. 2025 Tracked but not trapped.pdf)
 
