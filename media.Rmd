@@ -6,6 +6,8 @@ output: html_document
 
 **External Guest Talks**
 
+- Shanghai Jiao Tong University, Summer, 2026
+- Keynote speaker, Meaningful XR conference, Summer 2026
 - Michigan State University, Spring 2026
 - Hong Kong Baptist University, Fall 2025
 - Fudan University, Summer 2025
