@@ -3,8 +3,8 @@ title: "Presence and Artificial Intelligence (PAI) Lab"
 output:
   html_document: default
   pdf_document:
-    latex_engine: xelatex
     
+    latex_engine: xelatex
 ---
 
 <font color="green">**About PAI Lab:**</font>
@@ -45,7 +45,7 @@ Fanjue Liu is an assistant professor in Digital Techonlogy and Culture at Shangh
 <br>
 <br>
 
-[Xiaobei Chen](https://www.linkedin.com/in/xiaobei-chen/)
+[Xiaobei Chen](https://www.linkedin.com/in/xiaobei-chen/) (Accepted a postdoc position at University of North Carolina)
 <br>
 <img src="images/xiaobei.JPG" alt="Xiaobei" style="width: 200px; float: left; padding: 20px;"/>
 
@@ -61,7 +61,7 @@ Xiaobei Chen is a current PhD candidate with concentrations in health communicat
 <br>
 <img src="images/jiayue.JPG" alt="Jiayue" style="width: 200px; float: left; padding: 20px;"/>
 
-Jiayue Lynn Li is a PhD student with a background in media, cultural, and communication studies. Her research interests span digital communication, human-computer/robot interaction, and critical media analysis from a phenomenological standpoint. Her current projects focus on how individuals interact with and make meanings from digital artifacts such as memes created by selfies and (dis)embodied robots, and how this shapes our understanding of the self, others, and the world.\
+Jiayue Lynn Li is a PhD candidate with a background in media, cultural, and communication studies. Her research interests span digital communication, human-computer/robot interaction, and critical media analysis from a phenomenological standpoint. Her current projects focus on how individuals interact with and make meanings from digital artifacts such as memes created by selfies and (dis)embodied robots, and how this shapes our understanding of the self, others, and the world.\
 
 <br>
 <br>
@@ -72,7 +72,7 @@ Jiayue Lynn Li is a PhD student with a background in media, cultural, and commun
 
 <img src="images/tsehsi.jpg" alt="tsehsi" style="width: 200px; float: left; padding: 20px;"/>
 
-Tse-hsi Chien will be a Ph.D. student in the College of Journalism and Communications at the University of Florida, where she also received her M.A. in Mass Communication. Her research interests lie at the intersection of moral cognition and emerging technologies. Specifically, she studies (1) how moral cues in media messages shape moral judgment, emotion, and prosocial outcomes; and (2) how artificial intelligence and other emerging technologies influence perceptions of responsibility, agency, and condemnation in morally relevant contexts. \
+Tse-hsi Chien is a Ph.D. student in the College of Journalism and Communications at the University of Florida, where she also received her M.A. in Mass Communication. Her research interests lie at the intersection of moral cognition and emerging technologies. Specifically, she studies (1) how moral cues in media messages shape moral judgment, emotion, and prosocial outcomes; and (2) how artificial intelligence and other emerging technologies influence perceptions of responsibility, agency, and condemnation in morally relevant contexts. \
 
 <br>
 <br>
