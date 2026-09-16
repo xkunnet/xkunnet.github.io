@@ -7,7 +7,7 @@ title: "About Me"
 
 My name is Kun Xu. I am an Associate Professor of Emerging Technologies at the [University of Florida College of Journalism and Communications](https://www.jou.ufl.edu/). I also serve as Directors of [Media Effects & Technology Lab](https://www.jou.ufl.edu/metl/) (METL) as well as the University of Florida [College of Journalism and Communications Research Lab](https://www.jou.ufl.edu/researchlab/).
 
-I am currently on academic sabbatical and am a visiting scholar at the [Technology and Impact Center](https://tip.fsi.stanford.edu/) and the [Social Media Lab]https://sml.stanford.edu/ at [Stanford University](https://www.stanford.edu/).
+I am currently on academic sabbatical and am a visiting scholar at the [Technology and Impact Center](https://tip.fsi.stanford.edu/) and the [Social Media Lab](https://sml.stanford.edu/) at [Stanford University](https://www.stanford.edu/).
 
 My research focuses on human-robot interaction, human-agent interaction, computer-mediated communication, and psychological processing of emerging media. I use social scientific approaches to investigate how people perceive, process, and respond to humanoid social robots, AI agents, and augmented characters. I am also interested in how people make sense of spaces and maintain social relationships in virtual and mixed reality environments. 
 
