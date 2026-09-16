@@ -10,6 +10,8 @@ output:
 <font color="green">**Peer-Reviewed Journal Articles:**</font>
 
 
+Xu, K., Shi, M., Li, J., Zhou, Z., Chen, Y., & Chan-Olmsted, S. (Accepted). Face-off: Facial expression disclosure affects the processing of proxemic norms in virtual reality. *Journal of Computer-Mediated Communication.*
+
 Huang, L., & Xu, K. (corresponding author) (2026). The field of communication is becoming less disruptive: Analyses of citation data over four decades. *Annals of the International Communication Association.* [PDF](publications/Huang & Xu Annals of ICA.pdf)
 
 Li, J., & Xu, K. (corresponding author) (2026). Reflecting, evoking, and reshaping connection: What home-based social robots tell us about companionship. *International Journal of Social Robotics, 18.* [PDF](publications/Lynn & Xu 2026 robot companionship.pdf)
