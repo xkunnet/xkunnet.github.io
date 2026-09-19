@@ -1,0 +1,97 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Contact},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Contact}
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+\maketitle
+
+\pandocbounded{\includegraphics[keepaspectratio]{~/Documents/GitHub/kunxu.github.io/images/meandrobot.png}}
+
+Department of Media Production, Management, and Technology\\
+College of Journalism and Communications\\
+University of Florida\\
+1885 Stadium Rd, Gainesville, FL 32611\\
+Office: Weimer Hall \#3065\\
+Office Phone: 352-392-0435
+
+Visiting Scholar Office 432 Tech Impact and Policy Center Stanford
+University 616 Jane Stanford Way, Stanford, CA 94305
+
+Email: kun {[}dot{]} xu {[}at{]} ufl {[}dot{]} edu
+
+中文介绍：
+
+本人现为美国佛罗里达大学新闻与传播学院副教授(终身教职)，兼任学院\href{https://www.jou.ufl.edu/metl/}{媒介效果与技术实验室}主任以及\href{https://www.jou.ufl.edu/researchlab/}{学院实验室}主任。2026年9月起在斯坦福大学\href{https://tip.fsi.stanford.edu/}{技术影响力与政策中心}以及\href{https://sml.stanford.edu/}{社交媒体实验室}做访问学者。研究领域聚焦于社交机器人(social
+robots)，虚拟现实(VR)和增强现实(AR)。特别关注有关交互临场感 (social
+presence) 与空间临场感 (spatial presence)
+的理论建设与实证研究。教学领域包括人机传播(human-machine communication),
+人机互动(human-computer interaction), 计算机辅助传播(computer-mediated
+communication), 用户体验(user experience)。
+
+\end{document}
